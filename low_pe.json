@@ -1,0 +1,82 @@
+[
+    {
+        "code": "VNO",
+        "name": "Vornado Realty Trust ",
+        "price": 3177.052902,
+        "P/E": -893.45,
+        "growth": 5.723124516628005,
+        "potential profit": 15.0
+    },
+    {
+        "code": "DVN",
+        "name": "Devon Energy Corp. ",
+        "price": 3916.8933120000006,
+        "P/E": -167.13,
+        "growth": 201.49075730471083,
+        "potential profit": 38.07
+    },
+    {
+        "code": "XOM",
+        "name": "ExxonMobil Corp. (Exxon Mobil) ",
+        "price": 5881.537584000001,
+        "P/E": -125.36,
+        "growth": 69.01157613535173,
+        "potential profit": 31.720000000000006
+    },
+    {
+        "code": "PVH",
+        "name": "PVH Corp. ",
+        "price": 7364.317212000001,
+        "P/E": -44.03,
+        "growth": 15.23821069220513,
+        "potential profit": 46.629999999999995
+    },
+    {
+        "code": "COP",
+        "name": "ConocoPhillips ",
+        "price": 6862.310316,
+        "P/E": -40.25,
+        "growth": 117.48097225632213,
+        "potential profit": 50.03999999999999
+    },
+    {
+        "code": "LVS",
+        "name": "Las Vegas Sands Corp. ",
+        "price": 3393.9694620000005,
+        "P/E": -31.33,
+        "growth": -10.73757131214343,
+        "potential profit": 33.00000000000001
+    },
+    {
+        "code": "ALK",
+        "name": "Alaska Air Group Inc. ",
+        "price": 4239.944046,
+        "P/E": -25.69,
+        "growth": 9.679358717434866,
+        "potential profit": 27.97
+    },
+    {
+        "code": "BA",
+        "name": "Boeing Co. ",
+        "price": 15513.407550000002,
+        "P/E": -21.59,
+        "growth": 2.340675627331734,
+        "potential profit": 94.76999999999998
+    },
+    {
+        "code": "LUV",
+        "name": "Southwest Airlines Co. ",
+        "price": 3467.566152,
+        "P/E": -19.78,
+        "growth": -0.044662795891028395,
+        "potential profit": 26.08
+    },
+    {
+        "code": "EXPE",
+        "name": "Expedia Inc. ",
+        "price": 14199.512958000001,
+        "P/E": -15.04,
+        "growth": 43.98271798900237,
+        "potential profit": 71.42999999999999
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "code": "MMM",
+        "name": "3M Co. ",
+        "price": 12861.602604000002,
+        "P/E": 17.75,
+        "growth": -4.9848337434899435,
+        "potential profit": 48.41
+    },
+    {
+        "code": "AOS",
+        "name": "A.O. Smith Corp. ",
+        "price": 5921.047386000001,
+        "P/E": 28.84,
+        "growth": 36.50651902125381,
+        "potential profit": 32.849999999999994
+    },
+    {
+        "code": "AFL",
+        "name": "Aflac Inc ",
+        "price": 4865.12856,
+        "P/E": 8.88,
+        "growth": 37.65892152564666,
+        "potential profit": 19.449999999999996
+    },
+    {
+        "code": "YUM",
+        "name": "YUM! Brands Inc. ",
+        "price": 9696.170232,
+        "P/E": 30.29,
+        "growth": 21.44381913448477,
+        "potential profit": 38.66
+    },
+    {
+        "code": "ZBRA",
+        "name": "Zebra Technologies Corp. ",
+        "price": 39441.628224,
+        "P/E": 99.52,
+        "growth": 28.135303148516357,
+        "potential profit": 232.51
+    },
+    {
+        "code": "ZBH",
+        "name": "Zimmer Biomet ",
+        "price": 9535.032216000001,
+        "P/E": 26.77,
+        "growth": -20.046771469403666,
+        "potential profit": 63.76000000000002
+    },
+    {
+        "code": "ZION",
+        "name": "Zions Bancorporation ",
+        "price": 5254.028964,
+        "P/E": 9.41,
+        "growth": 51.72259507829975,
+        "potential profit": 27.540000000000006
+    },{
+        "code": "ZTS",
+        "name": "Zoetis Inc (A) ",
+        "price": 15488.617086000002,
+        "P/E": 41.91,
+        "growth": 28.630251560187872,
+        "potential profit": 107.86000000000001
+    },
+    {
+        "code": "AIZ",
+        "name": "Assurant IncShs ",
+        "price": 11814.2055,
+        "P/E": 15.32,
+        "growth": 13.399762046400966,
+        "potential profit": 50.67
+    },
+    {
+        "code": "T",
+        "name": "AT&T Inc. (AT & T Inc.) ",
+        "price": 1975.4901000000002,
+        "P/E": 7.29,
+        "growth": -10.963687150837984,
+        "potential profit": 11.849999999999998
+    },
+    {
+        "code": "ATO",
+        "name": "Atmos Energy Corp. ",
+        "price": 8302.481334,
+        "P/E": 99.08,
+        "growth": 20.850248082995023,
+        "potential profit": 23.14999999999999
+    },
+    {
+        "code": "ADSK",
+        "name": "Autodesk Inc. ",
+        "price": 19351.281258,
+        "P/E": 99.66,
+        "growth": -12.758452081587038,
+        "potential profit": 117.98999999999998
+    },
+    {
+        "code": "ADP",
+        "name": "Automatic Data Processing Inc. ",
+        "price": 15972.031134,
+        "P/E": 32.77,
+        "growth": 23.937481214307184,
+        "potential profit": 84.72
+    }
+    ]

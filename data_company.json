@@ -1,0 +1,3970 @@
+[
+    {
+        "code": "MMM",
+        "name": "3M Co. ",
+        "price": 12861.602604000002,
+        "P/E": 17.75,
+        "growth": -4.9848337434899435,
+        "potential profit": 48.41
+    },
+    {
+        "code": "AOS",
+        "name": "A.O. Smith Corp. ",
+        "price": 5921.047386000001,
+        "P/E": 28.84,
+        "growth": 36.50651902125381,
+        "potential profit": 32.849999999999994
+    },
+    {
+        "code": "AFL",
+        "name": "Aflac Inc ",
+        "price": 4865.12856,
+        "P/E": 8.88,
+        "growth": 37.65892152564666,
+        "potential profit": 19.449999999999996
+    },
+    {
+        "code": "YUM",
+        "name": "YUM! Brands Inc. ",
+        "price": 9696.170232,
+        "P/E": 30.29,
+        "growth": 21.44381913448477,
+        "potential profit": 38.66
+    },
+    {
+        "code": "ZBRA",
+        "name": "Zebra Technologies Corp. ",
+        "price": 39441.628224,
+        "P/E": 99.52,
+        "growth": 28.135303148516357,
+        "potential profit": 232.51
+    },
+    {
+        "code": "ZBH",
+        "name": "Zimmer Biomet ",
+        "price": 9535.032216000001,
+        "P/E": 26.77,
+        "growth": -20.046771469403666,
+        "potential profit": 63.76000000000002
+    },
+    {
+        "code": "ZION",
+        "name": "Zions Bancorporation ",
+        "price": 5254.028964,
+        "P/E": 9.41,
+        "growth": 51.72259507829975,
+        "potential profit": 27.540000000000006
+    },
+    {
+        "code": "ZTS",
+        "name": "Zoetis Inc (A) ",
+        "price": 15488.617086000002,
+        "P/E": 41.91,
+        "growth": 28.630251560187872,
+        "potential profit": 107.86000000000001
+    },
+    {
+        "code": "AIZ",
+        "name": "Assurant IncShs ",
+        "price": 11814.2055,
+        "P/E": 15.32,
+        "growth": 13.399762046400966,
+        "potential profit": 50.67
+    },
+    {
+        "code": "T",
+        "name": "AT&T Inc. (AT & T Inc.) ",
+        "price": 1975.4901000000002,
+        "P/E": 7.29,
+        "growth": -10.963687150837984,
+        "potential profit": 11.849999999999998
+    },
+    {
+        "code": "ATO",
+        "name": "Atmos Energy Corp. ",
+        "price": 8302.481334,
+        "P/E": 99.08,
+        "growth": 20.850248082995023,
+        "potential profit": 23.14999999999999
+    },
+    {
+        "code": "ADSK",
+        "name": "Autodesk Inc. ",
+        "price": 19351.281258,
+        "P/E": 99.66,
+        "growth": -12.758452081587038,
+        "potential profit": 117.98999999999998
+    },
+    {
+        "code": "ADP",
+        "name": "Automatic Data Processing Inc. ",
+        "price": 15972.031134,
+        "P/E": 32.77,
+        "growth": 23.937481214307184,
+        "potential profit": 84.72
+    },
+    {
+        "code": "A",
+        "name": "Agilent Technologies Inc. ",
+        "price": 10793.922966000002,
+        "P/E": 30.82,
+        "growth": 15.348952727874831,
+        "potential profit": 67.1
+    },
+    {
+        "code": "AZO",
+        "name": "AutoZone Inc. ",
+        "price": 153779.121702,
+        "P/E": 99.56,
+        "growth": 71.39933685628435,
+        "potential profit": 1002.3600000000001
+    },
+    {
+        "code": "AVB",
+        "name": "AvalonBay Communities Inc. ",
+        "price": 18928.293966,
+        "P/E": 26.18,
+        "growth": 47.81898481456835,
+        "potential profit": 96.38000000000002
+    },
+    {
+        "code": "AVY",
+        "name": "Avery Dennison Corp. ",
+        "price": 15910.054974,
+        "P/E": 21.38,
+        "growth": 34.21121422036333,
+        "potential profit": 79.81
+    },
+    {
+        "code": "BKR",
+        "name": "Baker Hughes Inc. ",
+        "price": 1891.8222840000003,
+        "P/E": 38.34,
+        "growth": 20.265944348682595,
+        "potential profit": 9.629999999999999
+    },
+    {
+        "code": "BLL",
+        "name": "Ball Corp. ",
+        "price": 7524.680526,
+        "P/E": 27.26,
+        "growth": 8.622232162827103,
+        "potential profit": 20.13000000000001
+    },
+    {
+        "code": "BAC",
+        "name": "Bank of America Corp. ",
+        "price": 3573.7003260000006,
+        "P/E": 12.55,
+        "growth": 54.023372287145236,
+        "potential profit": 20.509999999999998
+    },
+    {
+        "code": "BK",
+        "name": "Bank of New York Mellon ",
+        "price": 4590.109350000001,
+        "P/E": 14.48,
+        "growth": 46.36857707509881,
+        "potential profit": 25.07
+    },
+    {
+        "code": "BBWI",
+        "name": "Bath & Body Works ",
+        "price": 4346.852922,
+        "P/E": 4.56,
+        "growth": 12.566366710367802,
+        "potential profit": 0
+    },
+    {
+        "code": "BAX",
+        "name": "Baxter International Inc. ",
+        "price": 6619.053888,
+        "P/E": 25.83,
+        "growth": 11.847100405812284,
+        "potential profit": 15.789999999999992
+    },
+    {
+        "code": "BDX",
+        "name": "Becton, Dickinson & Co. (BD) ",
+        "price": 19690.600734,
+        "P/E": 16.67,
+        "growth": -2.8142086949871867,
+        "potential profit": 33.380000000000024
+    },
+    {
+        "code": "APD",
+        "name": "Air Products and Chemicals Inc. ",
+        "price": 21862.09044,
+        "P/E": 24.93,
+        "growth": 4.9265662762595355,
+        "potential profit": 70.63999999999999
+    },
+    {
+        "code": "BRK.B",
+        "name": "Berkshire Hathaway Inc. B ",
+        "price": 24249.722004,
+        "P/E": 99.81,
+        "growth": 36.6183659217877,
+        "potential profit": 97.17999999999998
+    },
+    {
+        "code": "BBY",
+        "name": "Best Buy Co. Inc. ",
+        "price": 7697.439072,
+        "P/E": 13.88,
+        "growth": -7.752297836783953,
+        "potential profit": 48.989999999999995
+    },
+    {
+        "code": "BIIB",
+        "name": "Biogen Inc ",
+        "price": 17508.2652,
+        "P/E": 99.61,
+        "growth": -18.839330604036476,
+        "potential profit": 253.62
+    },
+    {
+        "code": "BIO",
+        "name": "Bio-Rad Laboratories Inc. ",
+        "price": 46482.12,
+        "P/E": 12.98,
+        "growth": 1.5640869388584235,
+        "potential profit": 284.02
+    },
+    {
+        "code": "TECH",
+        "name": "Bio-Techne Corp ",
+        "price": 29160.557982000006,
+        "P/E": 65.0,
+        "growth": 10.686035228041291,
+        "potential profit": 221.85000000000002
+    },
+    {
+        "code": "BLK",
+        "name": "BlackRock Inc. ",
+        "price": 63753.32638800001,
+        "P/E": 23.52,
+        "growth": 15.396696300866594,
+        "potential profit": 302.72
+    },
+    {
+        "code": "BA",
+        "name": "Boeing Co. ",
+        "price": 15513.407550000002,
+        "P/E": -21.59,
+        "growth": 2.340675627331734,
+        "potential profit": 94.76999999999998
+    },
+    {
+        "code": "BKNG",
+        "name": "Booking Holdings Inc Registered Shs ",
+        "price": 190276.88232600002,
+        "P/E": 99.71,
+        "growth": 23.395094601247948,
+        "potential profit": 748.49
+    },
+    {
+        "code": "BWA",
+        "name": "BorgWarner Inc. ",
+        "price": 3396.6809190000004,
+        "P/E": 13.84,
+        "growth": 4.2687277051129655,
+        "potential profit": 15.269999999999996
+    },
+    {
+        "code": "BXP",
+        "name": "Boston Properties Inc. ",
+        "price": 8682.860016,
+        "P/E": 99.58,
+        "growth": 24.24343199201863,
+        "potential profit": 39.120000000000005
+    },
+    {
+        "code": "AKAM",
+        "name": "Akamai Inc. ",
+        "price": 8874.21141,
+        "P/E": 98.37,
+        "growth": 2.597402597402592,
+        "potential profit": 28.03
+    },
+    {
+        "code": "BSX",
+        "name": "Boston Scientific Corp. ",
+        "price": 3324.246282,
+        "P/E": 99.08,
+        "growth": 19.39343350027825,
+        "potential profit": 11.240000000000002
+    },
+    {
+        "code": "BMY",
+        "name": "Bristol-Myers Squibb Co. ",
+        "price": 5026.266576,
+        "P/E": 9.57,
+        "growth": 4.291914483202049,
+        "potential profit": 16.520000000000003
+    },
+    {
+        "code": "AVGO",
+        "name": "Broadcom ",
+        "price": 45388.240776000006,
+        "P/E": 16.38,
+        "growth": 25.52598877319278,
+        "potential profit": 258.61
+    },
+    {
+        "code": "BR",
+        "name": "Broadridge Financial Solutions IncShs ",
+        "price": 12330.931734,
+        "P/E": 28.49,
+        "growth": 9.028015617508032,
+        "potential profit": 47.370000000000005
+    },
+    {
+        "code": "BF.B",
+        "name": "Brown-Forman Corp. (B) ",
+        "price": 5223.815586000001,
+        "P/E": 97.58,
+        "growth": -6.58077029648102,
+        "potential profit": 17.03
+    },
+    {
+        "code": "CHRW",
+        "name": "C.H. Robinson Worldwide Inc. ",
+        "price": 8107.256430000001,
+        "P/E": 24.84,
+        "growth": 21.080643295152143,
+        "potential profit": 27.370000000000005
+    },
+    {
+        "code": "CTRA",
+        "name": "Cabot Oil & Gas Corp ",
+        "price": 1696.59738,
+        "P/E": 28.78,
+        "growth": 17.74193548387096,
+        "potential profit": 9.360000000000001
+    },
+    {
+        "code": "CDNS",
+        "name": "Cadence Design Systems Inc. ",
+        "price": 11786.316228,
+        "P/E": 47.55,
+        "growth": 13.199404761904745,
+        "potential profit": 74.58999999999999
+    },
+    {
+        "code": "CZR",
+        "name": "Caesars Entertainment ",
+        "price": 5898.5810280000005,
+        "P/E": 95.56,
+        "growth": 7.542372881355931,
+        "potential profit": 51.8
+    },
+    {
+        "code": "CPB",
+        "name": "Campbell Soup Co. ",
+        "price": 3417.985224,
+        "P/E": 14.76,
+        "growth": -8.121615993336121,
+        "potential profit": 12.469999999999999
+    },
+    {
+        "code": "ALK",
+        "name": "Alaska Air Group Inc. ",
+        "price": 4239.944046,
+        "P/E": -25.69,
+        "growth": 9.679358717434866,
+        "potential profit": 27.97
+    },
+    {
+        "code": "COF",
+        "name": "Capital One Financial Corp. ",
+        "price": 11371.075956,
+        "P/E": 5.37,
+        "growth": 42.74044539531266,
+        "potential profit": 75.38
+    },
+    {
+        "code": "CAH",
+        "name": "Cardinal Health Inc. ",
+        "price": 3994.3635120000004,
+        "P/E": 10.19,
+        "growth": -5.3597650513950015,
+        "potential profit": 17.1
+    },
+    {
+        "code": "KMX",
+        "name": "CarMax Inc. ",
+        "price": 8623.207962,
+        "P/E": 99.62,
+        "growth": -4.716658106488609,
+        "potential profit": 53.459999999999994
+    },
+    {
+        "code": "CCL",
+        "name": "Carnival Corp & plc paired ",
+        "price": 1533.9099600000002,
+        "P/E": -2.18,
+        "growth": 5.319148936170208,
+        "potential profit": 15.190000000000001
+    },
+    {
+        "code": "CARR",
+        "name": "Carrier Global Corporation Registered Shs When Issued ",
+        "price": 3693.0044340000004,
+        "P/E": 22.41,
+        "growth": 23.24198552223372,
+        "potential profit": 24.14
+    },
+    {
+        "code": "CTLT",
+        "name": "Catalent Inc ",
+        "price": 8049.1537800000015,
+        "P/E": 96.74,
+        "growth": -11.690960860141942,
+        "potential profit": 47.01999999999998
+    },
+    {
+        "code": "CAT",
+        "name": "Caterpillar Inc. ",
+        "price": 15618.767022000002,
+        "P/E": 19.24,
+        "growth": 9.173119618779452,
+        "potential profit": 65.91
+    },
+    {
+        "code": "CBRE",
+        "name": "CBRE Group Inc. (A) ",
+        "price": 7847.7312600000005,
+        "P/E": 99.08,
+        "growth": 58.95182802447829,
+        "potential profit": 50.4
+    },
+    {
+        "code": "CDW",
+        "name": "CDW Corp (New) ",
+        "price": 14645.741310000001,
+        "P/E": 19.5,
+        "growth": 36.83410538506081,
+        "potential profit": 78.44
+    },
+    {
+        "code": "CE",
+        "name": "Celanese Corp. ",
+        "price": 12063.659544,
+        "P/E": 99.72,
+        "growth": 26.942202657536484,
+        "potential profit": 61.08
+    },
+    {
+        "code": "ALB",
+        "name": "Albemarle Corp. ",
+        "price": 17107.744266,
+        "P/E": 35.35,
+        "growth": 32.734266995251545,
+        "potential profit": 157.57
+    },
+    {
+        "code": "CNC",
+        "name": "Centene Corp. ",
+        "price": 6026.406858000001,
+        "P/E": 5.44,
+        "growth": 30.520134228187942,
+        "potential profit": 28.28
+    },
+    {
+        "code": "CNP",
+        "name": "CenterPoint Energy Inc. ",
+        "price": 2197.054872,
+        "P/E": 15.12,
+        "growth": 33.58455016486104,
+        "potential profit": 9.060000000000002
+    },
+    {
+        "code": "CERN",
+        "name": "Cerner Corp. ",
+        "price": 7065.2822400000005,
+        "P/E": 27.5,
+        "growth": 13.871894119115993,
+        "potential profit": 25.480000000000004
+    },
+    {
+        "code": "CF",
+        "name": "CF Industries Holdings Inc ",
+        "price": 5338.471482,
+        "P/E": 24.94,
+        "growth": 60.33038622615172,
+        "potential profit": 33.769999999999996
+    },
+    {
+        "code": "CRL",
+        "name": "Charles River Laboratories International Inc. ",
+        "price": 25521.007986,
+        "P/E": 30.41,
+        "growth": 23.729577464788733,
+        "potential profit": 203.07999999999998
+    },
+    {
+        "code": "SCHW",
+        "name": "Charles Schwab ",
+        "price": 6794.911242,
+        "P/E": 26.13,
+        "growth": 64.37406296851574,
+        "potential profit": 44.85
+    },
+    {
+        "code": "CHTR",
+        "name": "Charter Inc (A) (Charter Communications) ",
+        "price": 45966.168468,
+        "P/E": 26.81,
+        "growth": -0.9482154185169094,
+        "potential profit": 276.03
+    },
+    {
+        "code": "CVX",
+        "name": "Chevron Corp. ",
+        "price": 10174.936068,
+        "P/E": 14.55,
+        "growth": 51.89082918931422,
+        "potential profit": 52.43000000000001
+    },
+    {
+        "code": "CMG",
+        "name": "Chipotle Mexican Grill Inc. ",
+        "price": 115212.13203600001,
+        "P/E": 99.26,
+        "growth": -1.2758895379713238,
+        "potential profit": 702.28
+    },
+    {
+        "code": "CB",
+        "name": "Chubb Ltd ",
+        "price": 15274.024632,
+        "P/E": 99.41,
+        "growth": 33.216216216216225,
+        "potential profit": 57.30000000000001
+    },
+    {
+        "code": "ARE",
+        "name": "Alexandria Real Estate Equities Inc. ",
+        "price": 15104.364894,
+        "P/E": 28.92,
+        "growth": 14.979064693047121,
+        "potential profit": 70.57999999999998
+    },
+    {
+        "code": "CHD",
+        "name": "Church & Dwight Co. Inc. ",
+        "price": 7951.541328,
+        "P/E": 33.64,
+        "growth": 22.33611442193086,
+        "potential profit": 27.200000000000003
+    },
+    {
+        "code": "CI",
+        "name": "Cigna Corp ",
+        "price": 17842.161762,
+        "P/E": 10.95,
+        "growth": 6.2315498154981555,
+        "potential profit": 81.03999999999999
+    },
+    {
+        "code": "CINF",
+        "name": "Cincinnati Financial Corp. ",
+        "price": 9128.313666,
+        "P/E": 26.12,
+        "growth": 34.80151012469969,
+        "potential profit": 43.69
+    },
+    {
+        "code": "CTAS",
+        "name": "Cintas Corp. ",
+        "price": 30331.907406,
+        "P/E": 34.57,
+        "growth": 20.289409812897475,
+        "potential profit": 143.55
+    },
+    {
+        "code": "CSCO",
+        "name": "Cisco Inc. ",
+        "price": 4312.766034,
+        "P/E": 17.23,
+        "growth": 22.62114537444934,
+        "potential profit": 20.140000000000008
+    },
+    {
+        "code": "C",
+        "name": "Citigroup Inc. ",
+        "price": 5044.859424000001,
+        "P/E": 5.99,
+        "growth": 11.468675111263266,
+        "potential profit": 22.890000000000008
+    },
+    {
+        "code": "CFG",
+        "name": "Citizens Financial Group Inc ",
+        "price": 3986.6164920000006,
+        "P/E": 9.17,
+        "growth": 38.333333333333314,
+        "potential profit": 20.990000000000002
+    },
+    {
+        "code": "CTXS",
+        "name": "Citrix Systems Inc. ",
+        "price": 7897.312188000001,
+        "P/E": 21.41,
+        "growth": -23.069956984378535,
+        "potential profit": 66.4
+    },
+    {
+        "code": "CLX",
+        "name": "Clorox Co., The ",
+        "price": 13004.147772000002,
+        "P/E": 24.65,
+        "growth": -20.08569388240896,
+        "potential profit": 59.00999999999999
+    },
+    {
+        "code": "CME",
+        "name": "CME Group Inc (A) ",
+        "price": 17779.410900000003,
+        "P/E": 26.82,
+        "growth": 22.43918053777209,
+        "potential profit": 56.120000000000005
+    },
+    {
+        "code": "ALGN",
+        "name": "Align Technology Inc. ",
+        "price": 38344.650192,
+        "P/E": 93.23,
+        "growth": -8.85553816407328,
+        "potential profit": 305.36000000000007
+    },
+    {
+        "code": "CMS",
+        "name": "CMS Energy Corp. ",
+        "price": 4988.306178000001,
+        "P/E": 22.09,
+        "growth": 12.629001224418403,
+        "potential profit": 12.600000000000009
+    },
+    {
+        "code": "KO",
+        "name": "Coca-Cola Co. ",
+        "price": 4724.9074980000005,
+        "P/E": 27.84,
+        "growth": 25.804455445544562,
+        "potential profit": 13.340000000000003
+    },
+    {
+        "code": "CTSH",
+        "name": "Cognizant Corp. ",
+        "price": 6617.504484000001,
+        "P/E": 23.66,
+        "growth": 8.346017250126835,
+        "potential profit": 25.840000000000003
+    },
+    {
+        "code": "CL",
+        "name": "Colgate-Palmolive Co. ",
+        "price": 6384.319182,
+        "P/E": 26.56,
+        "growth": 4.9675200611387,
+        "potential profit": 11.599999999999994
+    },
+    {
+        "code": "CMCSA",
+        "name": "Comcast Corp. (Class A) ",
+        "price": 3872.7352980000005,
+        "P/E": 15.73,
+        "growth": -0.31904287138584664,
+        "potential profit": 16.33
+    },
+    {
+        "code": "CMA",
+        "name": "Comerica Inc. ",
+        "price": 7186.910454,
+        "P/E": 10.46,
+        "growth": 59.37124205462979,
+        "potential profit": 45.31
+    },
+    {
+        "code": "CAG",
+        "name": "ConAgra Foods Inc. ",
+        "price": 2692.864152,
+        "P/E": 14.43,
+        "growth": 1.637426900584785,
+        "potential profit": 8.650000000000002
+    },
+    {
+        "code": "COP",
+        "name": "ConocoPhillips ",
+        "price": 6862.310316,
+        "P/E": -40.25,
+        "growth": 117.48097225632213,
+        "potential profit": 50.03999999999999
+    },
+    {
+        "code": "ED",
+        "name": "Consolidated Edison Inc. ",
+        "price": 6697.298790000001,
+        "P/E": 17.07,
+        "growth": 22.139022322690025,
+        "potential profit": 20.689999999999998
+    },
+    {
+        "code": "STZ",
+        "name": "Constellation Brands Inc (A) ",
+        "price": 18422.41356,
+        "P/E": 21.64,
+        "growth": 10.620086523700976,
+        "potential profit": 50.59
+    },
+    {
+        "code": "ALLE",
+        "name": "Allegion PLC ",
+        "price": 9507.917646000002,
+        "P/E": 99.5,
+        "growth": 11.365183067918878,
+        "potential profit": 42.17999999999999
+    },
+    {
+        "code": "COO",
+        "name": "Cooper Cos. Inc. ",
+        "price": 30840.111918,
+        "P/E": 26.59,
+        "growth": 8.961270015054055,
+        "potential profit": 102.5
+    },
+    {
+        "code": "CPRT",
+        "name": "Copart Inc. ",
+        "price": 10013.023350000001,
+        "P/E": 4.31,
+        "growth": 16.58848998737146,
+        "potential profit": 59.17999999999999
+    },
+    {
+        "code": "GLW",
+        "name": "Corning Inc. ",
+        "price": 3256.847208,
+        "P/E": 18.1,
+        "growth": 17.037861915367472,
+        "potential profit": 12.89
+    },
+    {
+        "code": "CTVA",
+        "name": "Corteva Inc Registered Shs When Issued ",
+        "price": 3724.767216,
+        "P/E": 25.08,
+        "growth": 18.07465618860512,
+        "potential profit": 10.599999999999994
+    },
+    {
+        "code": "COST",
+        "name": "Costco Wholesale Corp. ",
+        "price": 39132.522126,
+        "P/E": 34.76,
+        "growth": 44.10875271025904,
+        "potential profit": 264.48
+    },
+    {
+        "code": "CCI",
+        "name": "Crown Castle Corp ",
+        "price": 14151.481434,
+        "P/E": 81.73,
+        "growth": 11.146942500760574,
+        "potential profit": 63.72
+    },
+    {
+        "code": "CSX",
+        "name": "CSX Corp. ",
+        "price": 2651.030244,
+        "P/E": 22.34,
+        "growth": 17.93220931278468,
+        "potential profit": 9.499999999999996
+    },
+    {
+        "code": "CMI",
+        "name": "Cummins Inc. ",
+        "price": 17106.194862,
+        "P/E": 18.39,
+        "growth": -5.182926829268297,
+        "potential profit": 75.23000000000002
+    },
+    {
+        "code": "CVS",
+        "name": "CVS Health Corp ",
+        "price": 8248.252194,
+        "P/E": 9.02,
+        "growth": 49.07588910669281,
+        "potential profit": 41.32000000000001
+    },
+    {
+        "code": "DHI",
+        "name": "D.R. Horton Inc. ",
+        "price": 6915.764754,
+        "P/E": 6.52,
+        "growth": 15.784695201037621,
+        "potential profit": 37.88000000000001
+    },
+    {
+        "code": "LNT",
+        "name": "Alliant Energy Corp. ",
+        "price": 4637.366172,
+        "P/E": 20.65,
+        "growth": 22.28804902962206,
+        "potential profit": 16.36
+    },
+    {
+        "code": "DHR",
+        "name": "Danaher Corp. ",
+        "price": 22132.461438000002,
+        "P/E": 32.63,
+        "growth": 18.136707604515564,
+        "potential profit": 122.73999999999998
+    },
+    {
+        "code": "DRI",
+        "name": "Darden Restaurants Inc. ",
+        "price": 10835.756874,
+        "P/E": 33.04,
+        "growth": 17.124434768045546,
+        "potential profit": 47.66
+    },
+    {
+        "code": "DVA",
+        "name": "DaVita HealthCare Partners Inc ",
+        "price": 8396.994978,
+        "P/E": 96.79,
+        "growth": -8.762626262626256,
+        "potential profit": 42.099999999999994
+    },
+    {
+        "code": "DE",
+        "name": "Deere & Co. (John Deere) ",
+        "price": 29145.838644000003,
+        "P/E": 15.75,
+        "growth": 28.60463526355369,
+        "potential profit": 114.69999999999999
+    },
+    {
+        "code": "DAL",
+        "name": "Delta Air Lines Inc. ",
+        "price": 3075.5669400000006,
+        "P/E": -9.56,
+        "growth": 5.012564475598481,
+        "potential profit": 18.880000000000003
+    },
+    {
+        "code": "XRAY",
+        "name": "DENTSPLY SIRONA Inc ",
+        "price": 4138.458084000001,
+        "P/E": 28.58,
+        "growth": -0.9272997032640973,
+        "potential profit": 21.400000000000006
+    },
+    {
+        "code": "DVN",
+        "name": "Devon Energy Corp. ",
+        "price": 3916.8933120000006,
+        "P/E": -167.13,
+        "growth": 201.49075730471083,
+        "potential profit": 38.07
+    },
+    {
+        "code": "DXCM",
+        "name": "DexCom Inc. ",
+        "price": 33349.371696,
+        "P/E": 98.46,
+        "growth": 12.508494067220738,
+        "potential profit": 340.96000000000004
+    },
+    {
+        "code": "FANG",
+        "name": "Diamondback Energy Inc ",
+        "price": 9773.640432,
+        "P/E": 15.58,
+        "growth": 117.59227319765438,
+        "potential profit": 77.71000000000001
+    },
+    {
+        "code": "DLR",
+        "name": "Digital Realty Trust Inc. ",
+        "price": 11559.328542000001,
+        "P/E": 136.66,
+        "growth": 0.7154910563617847,
+        "potential profit": 53.48999999999998
+    },
+    {
+        "code": "ABT",
+        "name": "Abbott Laboratories ",
+        "price": 9873.576990000001,
+        "P/E": 27.43,
+        "growth": 4.049310147767173,
+        "potential profit": 37.14999999999999
+    },
+    {
+        "code": "ALL",
+        "name": "Allstate Corp. ",
+        "price": 9352.202544,
+        "P/E": 7.27,
+        "growth": 11.057957681692727,
+        "potential profit": 37.45
+    },
+    {
+        "code": "DFS",
+        "name": "Discover Financial Services ",
+        "price": 8967.950352000002,
+        "P/E": 6.51,
+        "growth": 40.86152348503285,
+        "potential profit": 54.42
+    },
+    {
+        "code": "DISCA",
+        "name": "Discovery Communications Inc  (A) ",
+        "price": 2162.193282,
+        "P/E": 97.07,
+        "growth": -33.736942070275404,
+        "potential profit": 56.480000000000004
+    },
+    {
+        "code": "DISCK",
+        "name": "Discovery Communications Inc  (C) ",
+        "price": 2118.8099700000002,
+        "P/E": 88.35,
+        "growth": -21.85714285714286,
+        "potential profit": 45.83
+    },
+    {
+        "code": "DISH",
+        "name": "Dish Network Corp. ",
+        "price": 2432.56428,
+        "P/E": 85.74,
+        "growth": 6.621392190152804,
+        "potential profit": 18.509999999999998
+    },
+    {
+        "code": "DG",
+        "name": "Dollar General Corporation ",
+        "price": 16137.817362000002,
+        "P/E": 18.66,
+        "growth": 8.050210073136583,
+        "potential profit": 66.56
+    },
+    {
+        "code": "DLTR",
+        "name": "Dollar Tree Inc ",
+        "price": 10165.639644,
+        "P/E": 98.67,
+        "growth": 30.10113027959548,
+        "potential profit": 65.11
+    },
+    {
+        "code": "D",
+        "name": "Dominion Energy Inc. ",
+        "price": 6247.971630000001,
+        "P/E": 20.9,
+        "growth": 10.920093522211545,
+        "potential profit": 13.230000000000004
+    },
+    {
+        "code": "DPZ",
+        "name": "Domino's Pizza Inc. ",
+        "price": 35220.277026,
+        "P/E": 30.62,
+        "growth": 22.274817783276404,
+        "potential profit": 247.85000000000002
+    },
+    {
+        "code": "DOV",
+        "name": "Dover Corp. ",
+        "price": 13169.934000000001,
+        "P/E": 23.83,
+        "growth": 44.570116506505656,
+        "potential profit": 68.07
+    },
+    {
+        "code": "DOW",
+        "name": "Dow Inc ",
+        "price": 4627.295046,
+        "P/E": 6.36,
+        "growth": 13.21076573161487,
+        "potential profit": 20.049999999999997
+    },
+    {
+        "code": "GOOGL",
+        "name": "Alphabet A (ex Google) ",
+        "price": 209639.78411400004,
+        "P/E": 99.75,
+        "growth": 42.946113984163304,
+        "potential profit": 1217.77
+    },
+    {
+        "code": "DTE",
+        "name": "DTE Energy Co. ",
+        "price": 9328.961484000001,
+        "P/E": 19.41,
+        "growth": 18.368263701136357,
+        "potential profit": 25.289999999999992
+    },
+    {
+        "code": "DUK",
+        "name": "Duke Energy Corp ",
+        "price": 8139.019212000001,
+        "P/E": 17.51,
+        "growth": 12.773722627737229,
+        "potential profit": 22.789999999999992
+    },
+    {
+        "code": "DRE",
+        "name": "Duke Realty Corp. ",
+        "price": 4479.326964000001,
+        "P/E": 29.07,
+        "growth": 42.20363994097394,
+        "potential profit": 28.47
+    },
+    {
+        "code": "DD",
+        "name": "DuPont de Nemours ",
+        "price": 5931.118512000001,
+        "P/E": 20.58,
+        "growth": 4.704595185995615,
+        "potential profit": 19.909999999999997
+    },
+    {
+        "code": "DXC",
+        "name": "DXC Technology ",
+        "price": 2329.528914,
+        "P/E": 12.95,
+        "growth": 19.705414012738842,
+        "potential profit": 19.98
+    },
+    {
+        "code": "EMN",
+        "name": "Eastman Chemical Company ",
+        "price": 9215.080290000002,
+        "P/E": 99.49,
+        "growth": 18.950000000000003,
+        "potential profit": 34.19000000000001
+    },
+    {
+        "code": "ETN",
+        "name": "Eaton Corporation Public Limited Company ",
+        "price": 12273.603786000001,
+        "P/E": 27.44,
+        "growth": 30.148689723157815,
+        "potential profit": 58.980000000000004
+    },
+    {
+        "code": "EBAY",
+        "name": "eBay Inc. ",
+        "price": 4653.634914,
+        "P/E": 14.91,
+        "growth": 2.736446040704635,
+        "potential profit": 29.68
+    },
+    {
+        "code": "ECL",
+        "name": "Ecolab Inc. ",
+        "price": 14682.152304000001,
+        "P/E": 53.29,
+        "growth": -8.95465026902383,
+        "potential profit": 58.53
+    },
+    {
+        "code": "EIX",
+        "name": "Edison International ",
+        "price": 4864.353858,
+        "P/E": 13.43,
+        "growth": 8.35202761000862,
+        "potential profit": 14.689999999999998
+    },
+    {
+        "code": "GOOG",
+        "name": "Alphabet C (ex Google) ",
+        "price": 210251.798694,
+        "P/E": 87.43,
+        "growth": 42.73910642438267,
+        "potential profit": 1226.1299999999999
+    },
+    {
+        "code": "EW",
+        "name": "Edwards Lifesciences Corp. ",
+        "price": 8462.844648,
+        "P/E": 2.55,
+        "growth": 33.36588939079479,
+        "potential profit": 53.25
+    },
+    {
+        "code": "EA",
+        "name": "Electronic Arts Inc. ",
+        "price": 10277.196732,
+        "P/E": 23.64,
+        "growth": -9.056008774936586,
+        "potential profit": 30.220000000000013
+    },
+    {
+        "code": "LLY",
+        "name": "Eli Lilly and Co. ",
+        "price": 19005.764166,
+        "P/E": 20.86,
+        "growth": 20.828408195429475,
+        "potential profit": 105.33000000000001
+    },
+    {
+        "code": "EMR",
+        "name": "Emerson Electric Co. ",
+        "price": 7125.708996000001,
+        "P/E": 20.23,
+        "growth": 13.68186874304783,
+        "potential profit": 27.019999999999996
+    },
+    {
+        "code": "ENPH",
+        "name": "Enphase Energy Inc ",
+        "price": 10882.238994000001,
+        "P/E": 97.44,
+        "growth": -24.616292798110976,
+        "potential profit": 173.57999999999998
+    },
+    {
+        "code": "ETR",
+        "name": "Entergy Corp. ",
+        "price": 8658.844254,
+        "P/E": 16.97,
+        "growth": 17.47950388900567,
+        "potential profit": 29.239999999999995
+    },
+    {
+        "code": "EOG",
+        "name": "EOG Resources Inc. ",
+        "price": 8637.539949000002,
+        "P/E": 99.65,
+        "growth": 117.16984807167898,
+        "potential profit": 61.2
+    },
+    {
+        "code": "EFX",
+        "name": "Equifax Inc. ",
+        "price": 18579.678066000004,
+        "P/E": 27.22,
+        "growth": 33.11317089415553,
+        "potential profit": 138.41000000000003
+    },
+    {
+        "code": "EQIX",
+        "name": "Equinix Inc ",
+        "price": 56158.14798,
+        "P/E": 169.88,
+        "growth": -4.204989956655041,
+        "potential profit": 298.37
+    },
+    {
+        "code": "EQR",
+        "name": "Equity Residential ",
+        "price": 6873.1561440000005,
+        "P/E": 23.58,
+        "growth": 42.70548496059192,
+        "potential profit": 32.660000000000004
+    },
+    {
+        "code": "MO",
+        "name": "Altria Inc. ",
+        "price": 3940.909074,
+        "P/E": 10.3,
+        "growth": 24.819040608514285,
+        "potential profit": 12.130000000000003
+    },
+    {
+        "code": "ESS",
+        "name": "Essex Property Trust ",
+        "price": 25758.841500000002,
+        "P/E": 26.9,
+        "growth": 37.35696286198208,
+        "potential profit": 123.30000000000001
+    },
+    {
+        "code": "EL",
+        "name": "Estée Lauder Companies Inc. (ELC) (Estee Lauder) ",
+        "price": 24138.939618,
+        "P/E": 99.5,
+        "growth": 28.862696443341576,
+        "potential profit": 138.39
+    },
+    {
+        "code": "ETSY",
+        "name": "Etsy Inc ",
+        "price": 12169.019016000002,
+        "P/E": 99.34,
+        "growth": -22.913088285812435,
+        "potential profit": 171.49
+    },
+    {
+        "code": "RE",
+        "name": "Everest Reinsurance Group Ltd. ",
+        "price": 21946.532958000003,
+        "P/E": 30.52,
+        "growth": 33.89261744966444,
+        "potential profit": 85.12
+    },
+    {
+        "code": "EVRG",
+        "name": "Evergy Inc Registered Shs ",
+        "price": 5030.914788,
+        "P/E": 17.29,
+        "growth": 20.796130952380963,
+        "potential profit": 17.490000000000002
+    },
+    {
+        "code": "ES",
+        "name": "Eversource Energy ",
+        "price": 6935.132304,
+        "P/E": 23.37,
+        "growth": 1.8893694513999577,
+        "potential profit": 16.03
+    },
+    {
+        "code": "EXC",
+        "name": "Exelon Corp. ",
+        "price": 4489.398090000001,
+        "P/E": 12.92,
+        "growth": 37.713878326996195,
+        "potential profit": 19.65
+    },
+    {
+        "code": "EXPE",
+        "name": "Expedia Inc. ",
+        "price": 14199.512958000001,
+        "P/E": -15.04,
+        "growth": 43.98271798900237,
+        "potential profit": 71.42999999999999
+    },
+    {
+        "code": "EXPD",
+        "name": "Expeditors International of Washington Inc. ",
+        "price": 8868.788496000001,
+        "P/E": 23.15,
+        "growth": 26.51121670902863,
+        "potential profit": 48.920000000000016
+    },
+    {
+        "code": "EXR",
+        "name": "Extra Space Storage Inc. ",
+        "price": 15352.269534000001,
+        "P/E": 30.52,
+        "growth": 69.8988340192044,
+        "potential profit": 117.3
+    },
+    {
+        "code": "AMZN",
+        "name": "Amazon ",
+        "price": 231749.779194,
+        "P/E": 86.63,
+        "growth": -10.512193079021685,
+        "potential profit": 1066.04
+    },
+    {
+        "code": "XOM",
+        "name": "ExxonMobil Corp. (Exxon Mobil) ",
+        "price": 5881.537584000001,
+        "P/E": -125.36,
+        "growth": 69.01157613535173,
+        "potential profit": 31.720000000000006
+    },
+    {
+        "code": "FFIV",
+        "name": "F5 Networks Inc. ",
+        "price": 16084.362924000001,
+        "P/E": 41.09,
+        "growth": 5.739750445632808,
+        "potential profit": 74.45000000000002
+    },
+    {
+        "code": "FAST",
+        "name": "Fastenal Co. ",
+        "price": 4391.010936000001,
+        "P/E": 40.4,
+        "growth": 22.102542007755275,
+        "potential profit": 21.369999999999997
+    },
+    {
+        "code": "FDX",
+        "name": "FedEx Corp. ",
+        "price": 19062.317412,
+        "P/E": 17.4,
+        "growth": 2.833500501504517,
+        "potential profit": 103.18
+    },
+    {
+        "code": "FIS",
+        "name": "Fidelity National Information Services IncShs ",
+        "price": 9291.001086000002,
+        "P/E": 25.62,
+        "growth": -7.182106648092258,
+        "potential profit": 54.12999999999998
+    },
+    {
+        "code": "FITB",
+        "name": "Fifth Third Bancorp ",
+        "price": 3457.4950260000005,
+        "P/E": 11.77,
+        "growth": 51.33943709732114,
+        "potential profit": 21.91
+    },
+    {
+        "code": "FRC",
+        "name": "First Republic Bank ",
+        "price": 13455.799038000001,
+        "P/E": 26.95,
+        "growth": 18.72180451127818,
+        "potential profit": 79.24000000000001
+    },
+    {
+        "code": "FE",
+        "name": "FirstEnergy Corp ",
+        "price": 3251.0369430000005,
+        "P/E": 12.29,
+        "growth": 34.67586649550705,
+        "potential profit": 11.770000000000003
+    },
+    {
+        "code": "FISV",
+        "name": "Fiserv Inc. ",
+        "price": 8188.6001400000005,
+        "P/E": 91.7,
+        "growth": -0.7511737089201915,
+        "potential profit": 35.28
+    },
+    {
+        "code": "FLT",
+        "name": "FleetCor Technologies Inc ",
+        "price": 18433.259388000002,
+        "P/E": 97.56,
+        "growth": -4.759236280670862,
+        "potential profit": 94.37
+    },
+    {
+        "code": "AMCR",
+        "name": "Amcor PLC Registered Shs ",
+        "price": 931.191804,
+        "P/E": 14.98,
+        "growth": 10.47794117647058,
+        "potential profit": 2.59
+    },
+    {
+        "code": "FMC",
+        "name": "FMC Corp. ",
+        "price": 8558.132994000001,
+        "P/E": 18.07,
+        "growth": 0.7294611106045323,
+        "potential profit": 35.2
+    },
+    {
+        "code": "F",
+        "name": "Ford Motor Co. ",
+        "price": 1573.419762,
+        "P/E": 21.51,
+        "growth": 87.44808491001382,
+        "potential profit": 15.510000000000002
+    },
+    {
+        "code": "FTNT",
+        "name": "Fortinet Inc ",
+        "price": 23027.242248000002,
+        "P/E": 83.47,
+        "growth": 100.30999393490129,
+        "potential profit": 227.55999999999997
+    },
+    {
+        "code": "FTV",
+        "name": "Fortive Corp When Issued ",
+        "price": 5465.52261,
+        "P/E": 32.41,
+        "growth": 5.99459134615384,
+        "potential profit": 14.86
+    },
+    {
+        "code": "FBHS",
+        "name": "Fortune Brands Home & Security Inc. ",
+        "price": 7301.566350000001,
+        "P/E": 20.15,
+        "growth": 6.665912177455866,
+        "potential profit": 33.60000000000001
+    },
+    {
+        "code": "FOXA",
+        "name": "Fox Corp (ex 21st Century Fox) ",
+        "price": 3146.0648220000003,
+        "P/E": 12.68,
+        "growth": 27.383939774153077,
+        "potential profit": 14.769999999999996
+    },
+    {
+        "code": "FOX",
+        "name": "Fox Corp B ",
+        "price": 2880.342036,
+        "P/E": 12.11,
+        "growth": 21.305057096247964,
+        "potential profit": 13.16
+    },
+    {
+        "code": "BEN",
+        "name": "Franklin Resources Inc. ",
+        "price": 2477.4969960000003,
+        "P/E": 7.06,
+        "growth": 20.361309747835904,
+        "potential profit": 13.360000000000003
+    },
+    {
+        "code": "FCX",
+        "name": "Freeport-McMoRan Inc ",
+        "price": 2883.440844,
+        "P/E": 13.36,
+        "growth": 31.89227498228206,
+        "potential profit": 19.69
+    },
+    {
+        "code": "GPS",
+        "name": "Gap Inc. ",
+        "price": 1399.886514,
+        "P/E": 57.45,
+        "growth": -10.188866799204774,
+        "potential profit": 22.169999999999998
+    },
+    {
+        "code": "AMD",
+        "name": "AMD (Advanced Micro Devices)  Inc. ",
+        "price": 8850.970350000001,
+        "P/E": 99.45,
+        "growth": 30.333105179101068,
+        "potential profit": 91.96000000000001
+    },
+    {
+        "code": "GRMN",
+        "name": "Garmin Ltd. ",
+        "price": 9620.249436000002,
+        "P/E": 78.02,
+        "growth": -8.972291452866145,
+        "potential profit": 65.22
+    },
+    {
+        "code": "IT",
+        "name": "Gartner Inc. ",
+        "price": 22777.788204,
+        "P/E": 96.78,
+        "growth": 90.81056525407229,
+        "potential profit": 217.78
+    },
+    {
+        "code": "GNRC",
+        "name": "Generac Holdings Inc ",
+        "price": 21884.556798,
+        "P/E": 98.48,
+        "growth": 9.073709409629714,
+        "potential profit": 279.66999999999996
+    },
+    {
+        "code": "GD",
+        "name": "General Dynamics Corp. ",
+        "price": 16429.880016000003,
+        "P/E": 18.0,
+        "growth": 43.86107719441054,
+        "potential profit": 68.12
+    },
+    {
+        "code": "GE",
+        "name": "General Electric ",
+        "price": 7318.609794000001,
+        "P/E": 55.1,
+        "growth": 10.053588070829448,
+        "potential profit": 31.049999999999997
+    },
+    {
+        "code": "GIS",
+        "name": "General Mills Inc. ",
+        "price": 5320.653336000001,
+        "P/E": 16.71,
+        "growth": 19.298245614035096,
+        "potential profit": 15.64
+    },
+    {
+        "code": "GM",
+        "name": "General Motors ",
+        "price": 4085.7783480000003,
+        "P/E": 8.49,
+        "growth": 2.3878858474082705,
+        "potential profit": 19.919999999999995
+    },
+    {
+        "code": "GPC",
+        "name": "Genuine Parts Co. ",
+        "price": 10324.453554000002,
+        "P/E": 18.6,
+        "growth": 40.78808366786396,
+        "potential profit": 49.31999999999999
+    },
+    {
+        "code": "GILD",
+        "name": "Gilead Sciences Inc. ",
+        "price": 5320.653336000001,
+        "P/E": 7.99,
+        "growth": 5.499231950844873,
+        "potential profit": 12.719999999999999
+    },
+    {
+        "code": "GPN",
+        "name": "Global Payments Inc. ",
+        "price": 11612.782980000002,
+        "P/E": 32.29,
+        "growth": -18.01575147670094,
+        "potential profit": 104.06
+    },
+    {
+        "code": "AEE",
+        "name": "Ameren Corp. ",
+        "price": 6874.705548,
+        "P/E": 21.68,
+        "growth": 21.962616822429894,
+        "potential profit": 20.97
+    },
+    {
+        "code": "GL",
+        "name": "Globe Life Inc ",
+        "price": 7925.20146,
+        "P/E": 13.16,
+        "growth": 11.925601750547045,
+        "potential profit": 22.959999999999994
+    },
+    {
+        "code": "GS",
+        "name": "Goldman Sachs ",
+        "price": 27500.371596000005,
+        "P/E": 96.93,
+        "growth": 29.290501165501155,
+        "potential profit": 155.52000000000004
+    },
+    {
+        "code": "HAL",
+        "name": "Halliburton Co. ",
+        "price": 2381.433948,
+        "P/E": 21.24,
+        "growth": 72.11646136618143,
+        "potential profit": 14.620000000000001
+    },
+    {
+        "code": "HIG",
+        "name": "Hartford Financial Services Group Inc. ",
+        "price": 5559.261552000001,
+        "P/E": 8.17,
+        "growth": 48.54067480852828,
+        "potential profit": 30.03
+    },
+    {
+        "code": "HAS",
+        "name": "Hasbro Inc. ",
+        "price": 7164.444096000001,
+        "P/E": 24.74,
+        "growth": -1.992369648156,
+        "potential profit": 19.760000000000005
+    },
+    {
+        "code": "HCA",
+        "name": "HCA Holdings Inc. ",
+        "price": 18600.59502,
+        "P/E": 14.69,
+        "growth": 43.38608539862648,
+        "potential profit": 110.02000000000004
+    },
+    {
+        "code": "PEAK",
+        "name": "Healthpeak Properties ",
+        "price": 2739.346272,
+        "P/E": 38.23,
+        "growth": 16.430688179124132,
+        "potential profit": 8.829999999999998
+    },
+    {
+        "code": "HSIC",
+        "name": "Henry Schein Inc. ",
+        "price": 5833.506060000001,
+        "P/E": 98.56,
+        "growth": 11.621701749184709,
+        "potential profit": 22.729999999999997
+    },
+    {
+        "code": "HES",
+        "name": "Hess Corp ",
+        "price": 7148.950056000001,
+        "P/E": 34.16,
+        "growth": 69.19691969196921,
+        "potential profit": 41.150000000000006
+    },
+    {
+        "code": "HPE",
+        "name": "Hewlett Packard Enterprise Co. ",
+        "price": 1265.088366,
+        "P/E": 6.4,
+        "growth": 31.906300484652633,
+        "potential profit": 5.420000000000002
+    },
+    {
+        "code": "AAL",
+        "name": "American Airlines Inc ",
+        "price": 1275.934194,
+        "P/E": -2.16,
+        "growth": -2.1971496437054583,
+        "potential profit": 11.18
+    },
+    {
+        "code": "HLT",
+        "name": "Hilton Worldwide Holdings Inc Registered Shs When Issued ",
+        "price": 11244.799530000002,
+        "P/E": 1070.91,
+        "growth": 42.33182977054324,
+        "potential profit": 60.19000000000001
+    },
+    {
+        "code": "HOLX",
+        "name": "Hologic IncShs ",
+        "price": 5441.506848,
+        "P/E": 3.9,
+        "growth": -15.261189528290515,
+        "potential profit": 24.89
+    },
+    {
+        "code": "HD",
+        "name": "Home Depot Inc., The ",
+        "price": 28441.634526,
+        "P/E": 22.91,
+        "growth": 35.853315571343984,
+        "potential profit": 173.92000000000002
+    },
+    {
+        "code": "HON",
+        "name": "Honeywell ",
+        "price": 15841.106496,
+        "P/E": 8.93,
+        "growth": -10.76976784779194,
+        "potential profit": 0
+    },
+    {
+        "code": "HRL",
+        "name": "Hormel Foods Corp. ",
+        "price": 3678.285096,
+        "P/E": 21.14,
+        "growth": 1.1935208866155165,
+        "potential profit": 10.380000000000003
+    },
+    {
+        "code": "HST",
+        "name": "Host Hotels & Resorts Inc. ",
+        "price": 1343.333268,
+        "P/E": -13.77,
+        "growth": 27.126099706744867,
+        "potential profit": 5.629999999999999
+    },
+    {
+        "code": "HWM",
+        "name": "Howmet Aerospace ",
+        "price": 2407.773816,
+        "P/E": 99.2,
+        "growth": 24.170994806232514,
+        "potential profit": 11.920000000000002
+    },
+    {
+        "code": "HPQ",
+        "name": "HP Inc (ex Hewlett-Packard) ",
+        "price": 2844.7057440000003,
+        "P/E": 99.82,
+        "growth": 50.0,
+        "potential profit": 15.579999999999998
+    },
+    {
+        "code": "HUM",
+        "name": "Humana Inc. ",
+        "price": 30403.954692,
+        "P/E": 21.67,
+        "growth": 3.300694883133289,
+        "potential profit": 124.24000000000001
+    },
+    {
+        "code": "HBAN",
+        "name": "Huntington Bancshares Inc. ",
+        "price": 1166.7012120000002,
+        "P/E": 17.0,
+        "growth": 13.918305597579419,
+        "potential profit": 4.779999999999999
+    },
+    {
+        "code": "AEP",
+        "name": "American Electric Power Co. Inc. ",
+        "price": 7003.306080000001,
+        "P/E": 18.17,
+        "growth": 11.357477211135745,
+        "potential profit": 16.85000000000001
+    },
+    {
+        "code": "HII",
+        "name": "Huntington Ingalls Industries Inc. ",
+        "price": 14509.393758,
+        "P/E": 9.64,
+        "growth": 18.658134820070956,
+        "potential profit": 67.48000000000002
+    },
+    {
+        "code": "IBM",
+        "name": "IBM Corp. (International Business Machines) ",
+        "price": 10347.694614,
+        "P/E": 16.87,
+        "growth": 15.946089972672766,
+        "potential profit": 33.16999999999999
+    },
+    {
+        "code": "IEX",
+        "name": "IDEX Corp. ",
+        "price": 16686.306378,
+        "P/E": 37.5,
+        "growth": 13.686266230338859,
+        "potential profit": 55.10000000000002
+    },
+    {
+        "code": "IDXX",
+        "name": "IDEXX Laboratories ",
+        "price": 39300.63246,
+        "P/E": 99.03,
+        "growth": 3.021810649445598,
+        "potential profit": 246.59000000000003
+    },
+    {
+        "code": "INFO",
+        "name": "IHS Markit Ltd Registered Shs ",
+        "price": 9054.716976,
+        "P/E": 39.98,
+        "growth": 32.097649186256774,
+        "potential profit": 49.94
+    },
+    {
+        "code": "ITW",
+        "name": "Illinois Tool Works Inc. ",
+        "price": 18124.927992,
+        "P/E": 30.09,
+        "growth": 20.004103405826825,
+        "potential profit": 56.610000000000014
+    },
+    {
+        "code": "ILMN",
+        "name": "Illumina Inc. ",
+        "price": 27023.155164,
+        "P/E": 98.68,
+        "growth": -21.32707835265461,
+        "potential profit": 237.7
+    },
+    {
+        "code": "INCY",
+        "name": "Incyte Corp. ",
+        "price": 5758.359966,
+        "P/E": 99.05,
+        "growth": -18.246810382754077,
+        "potential profit": 32.59
+    },
+    {
+        "code": "HSY",
+        "name": "The Hershey Co ",
+        "price": 15265.502910000001,
+        "P/E": 24.32,
+        "growth": 35.84970699758702,
+        "potential profit": 59.16999999999999
+    },
+    {
+        "code": "LHX",
+        "name": "Harris Corp Registered Shs ",
+        "price": 16201.342926000001,
+        "P/E": 15.93,
+        "growth": 20.53602305475505,
+        "potential profit": 77.38000000000002
+    },
+    {
+        "code": "ABBV",
+        "name": "AbbVie Inc ",
+        "price": 10599.472764,
+        "P/E": 9.91,
+        "growth": 33.8747553816047,
+        "potential profit": 36.49000000000001
+    },
+    {
+        "code": "AXP",
+        "name": "American Express Co. ",
+        "price": 13929.916662000001,
+        "P/E": 16.52,
+        "growth": 53.61811191798378,
+        "potential profit": 73.20000000000002
+    },
+    {
+        "code": "IR",
+        "name": "Ingersoll Rand Inc Registered Shs ",
+        "price": 4350.726432,
+        "P/E": 99.69,
+        "growth": 31.83098591549296,
+        "potential profit": 21.240000000000002
+    },
+    {
+        "code": "INTC",
+        "name": "Intel Corp. ",
+        "price": 3782.0951640000003,
+        "P/E": 9.52,
+        "growth": -13.882518962780026,
+        "potential profit": 22.189999999999998
+    },
+    {
+        "code": "ICE",
+        "name": "IntercontinentalExchange Group Inc ",
+        "price": 9810.826128,
+        "P/E": 25.1,
+        "growth": 11.705036605803997,
+        "potential profit": 30.739999999999995
+    },
+    {
+        "code": "IFF",
+        "name": "International Flavors & Fragrances Inc. ",
+        "price": 10219.094082,
+        "P/E": 19.22,
+        "growth": 1.3016933533003083,
+        "potential profit": 46.24000000000001
+    },
+    {
+        "code": "IP",
+        "name": "International Paper Co. ",
+        "price": 3737.1624480000005,
+        "P/E": 14.6,
+        "growth": 2.104486924953207,
+        "potential profit": 18.050000000000004
+    },
+    {
+        "code": "IPG",
+        "name": "Interpublic Group of Cos. Inc. ",
+        "price": 2754.06561,
+        "P/E": 13.65,
+        "growth": 43.23126510878322,
+        "potential profit": 15.39
+    },
+    {
+        "code": "INTU",
+        "name": "Intuit Inc. ",
+        "price": 43013.77914600001,
+        "P/E": 54.14,
+        "growth": 48.62412334707426,
+        "potential profit": 357.13
+    },
+    {
+        "code": "ISRG",
+        "name": "Intuitive Surgical Inc ",
+        "price": 22015.481436000002,
+        "P/E": 5.03,
+        "growth": 14.26465419662857,
+        "potential profit": 142.22
+    },
+    {
+        "code": "IVZ",
+        "name": "Invesco Ltd ",
+        "price": 1755.4747320000001,
+        "P/E": 7.56,
+        "growth": 5.887850467289724,
+        "potential profit": 9.440000000000001
+    },
+    {
+        "code": "IPGP",
+        "name": "IPG Photonics CorpShs ",
+        "price": 11966.821794000001,
+        "P/E": 65.82,
+        "growth": -33.01678157928971,
+        "potential profit": 119.04999999999998
+    },
+    {
+        "code": "AIG",
+        "name": "American International Group (AIG) Inc. ",
+        "price": 4474.678752,
+        "P/E": 14.66,
+        "growth": 54.31472081218274,
+        "potential profit": 25.740000000000002
+    },
+    {
+        "code": "IQV",
+        "name": "IQVIA Holdings Inc Registered Shs ",
+        "price": 18971.677278,
+        "P/E": 27.07,
+        "growth": 35.778443113772454,
+        "potential profit": 109.07999999999998
+    },
+    {
+        "code": "IRM",
+        "name": "Iron Mountain Inc ",
+        "price": 3559.7556900000004,
+        "P/E": 25.71,
+        "growth": 37.65727980826841,
+        "potential profit": 21.91
+    },
+    {
+        "code": "SJM",
+        "name": "J. M. Smucker Co. ",
+        "price": 10884.563100000001,
+        "P/E": 14.25,
+        "growth": 21.82433018295326,
+        "potential profit": 34.22999999999999
+    },
+    {
+        "code": "JBHT",
+        "name": "J.B. Hunt Transportation Services Inc. ",
+        "price": 14916.112308,
+        "P/E": 28.83,
+        "growth": 40.63253232050252,
+        "potential profit": 75.44
+    },
+    {
+        "code": "JKHY",
+        "name": "Jack Henry & Associates Inc. (JHA) ",
+        "price": 13000.274262,
+        "P/E": 39.88,
+        "growth": 13.018588362068968,
+        "potential profit": 38.329999999999984
+    },
+    {
+        "code": "J",
+        "name": "Jacobs Engineering Group Inc ",
+        "price": 10092.042954000002,
+        "P/E": 18.6,
+        "growth": 28.079834824501063,
+        "potential profit": 49.47000000000001
+    },
+    {
+        "code": "JNJ",
+        "name": "Johnson & Johnson ",
+        "price": 13343.467248,
+        "P/E": 17.57,
+        "growth": 5.915631533636699,
+        "potential profit": 28.44999999999999
+    },
+    {
+        "code": "JCI",
+        "name": "Johnson Controls International PLC ",
+        "price": 5627.4353280000005,
+        "P/E": 22.88,
+        "growth": 42.65514532600156,
+        "potential profit": 33.55
+    },
+    {
+        "code": "JPM",
+        "name": "JPMorgan Chase & Co. ",
+        "price": 11511.297018000001,
+        "P/E": 10.36,
+        "growth": 14.652777777777786,
+        "potential profit": 44.75999999999999
+    },
+    {
+        "code": "JNPR",
+        "name": "Juniper Networks Inc. ",
+        "price": 2697.512364,
+        "P/E": 20.79,
+        "growth": 40.51654560129137,
+        "potential profit": 12.900000000000002
+    },
+    {
+        "code": "AMT",
+        "name": "American Tower Corp. ",
+        "price": 19487.628810000002,
+        "P/E": 59.24,
+        "growth": 6.7835462919726695,
+        "potential profit": 106.22000000000003
+    },
+    {
+        "code": "K",
+        "name": "Kellogg Co. ",
+        "price": 4879.847898000001,
+        "P/E": 15.39,
+        "growth": 7.071222165561792,
+        "potential profit": 11.959999999999994
+    },
+    {
+        "code": "KEY",
+        "name": "KeyCorp ",
+        "price": 1940.6285100000002,
+        "P/E": 8.86,
+        "growth": 45.97902097902099,
+        "potential profit": 10.430000000000003
+    },
+    {
+        "code": "KEYS",
+        "name": "Keysight Technologies Inc ",
+        "price": 13083.942078,
+        "P/E": 24.88,
+        "growth": 18.270308123249293,
+        "potential profit": 79.98000000000002
+    },
+    {
+        "code": "KMB",
+        "name": "Kimberly-Clark Corp. ",
+        "price": 10659.89952,
+        "P/E": 22.86,
+        "growth": 3.318816639134994,
+        "potential profit": 20.519999999999996
+    },
+    {
+        "code": "KIM",
+        "name": "Kimco Realty Corp. ",
+        "price": 1879.4270520000002,
+        "P/E": 16.82,
+        "growth": 48.470012239902076,
+        "potential profit": 9.71
+    },
+    {
+        "code": "KMI",
+        "name": "Kinder Morgan Inc (P) ",
+        "price": 1344.882672,
+        "P/E": 11.93,
+        "growth": 23.823109843081312,
+        "potential profit": 5.539999999999999
+    },
+    {
+        "code": "KLAC",
+        "name": "KLA-Tencor Corp. ",
+        "price": 30156.824754,
+        "P/E": 22.2,
+        "growth": 33.02918460802405,
+        "potential profit": 183.76
+    },
+    {
+        "code": "KR",
+        "name": "Kroger ",
+        "price": 3375.3766140000002,
+        "P/E": 10.28,
+        "growth": 29.326209557732284,
+        "potential profit": 18.15
+    },
+    {
+        "code": "LH",
+        "name": "Laboratory Corp. of America Holdings ",
+        "price": 21021.538770000003,
+        "P/E": 8.38,
+        "growth": 15.971450551329198,
+        "potential profit": 97.23999999999998
+    },
+    {
+        "code": "LRCX",
+        "name": "Lam Research Corp. ",
+        "price": 45701.220384,
+        "P/E": 23.59,
+        "growth": 17.642835776248873,
+        "potential profit": 250.8
+    },
+    {
+        "code": "AWK",
+        "name": "American Water Works Co Inc ",
+        "price": 12462.631074,
+        "P/E": 37.84,
+        "growth": -0.4270859123545421,
+        "potential profit": 58.640000000000015
+    },
+    {
+        "code": "LW",
+        "name": "Lamb Weston Holdings Inc Registered Shs When Issued ",
+        "price": 4977.46035,
+        "P/E": 38.22,
+        "growth": -15.046939045352374,
+        "potential profit": 36.209999999999994
+    },
+    {
+        "code": "LVS",
+        "name": "Las Vegas Sands Corp. ",
+        "price": 3393.9694620000005,
+        "P/E": -31.33,
+        "growth": -10.73757131214343,
+        "potential profit": 33.00000000000001
+    },
+    {
+        "code": "LDOS",
+        "name": "Leidos Holdings Inc ",
+        "price": 6925.061178000001,
+        "P/E": 17.74,
+        "growth": -14.826107670319203,
+        "potential profit": 27.590000000000003
+    },
+    {
+        "code": "LEN",
+        "name": "Lennar Corp. ",
+        "price": 7444.88622,
+        "P/E": 6.66,
+        "growth": 14.078822412155759,
+        "potential profit": 39.68000000000001
+    },
+    {
+        "code": "LNC",
+        "name": "Lincoln National Corp. ",
+        "price": 5420.589894000001,
+        "P/E": 10.95,
+        "growth": 51.123110151187916,
+        "potential profit": 32.96999999999999
+    },
+    {
+        "code": "LIN",
+        "name": "Linde plc ",
+        "price": 24688.203336000002,
+        "P/E": 31.6,
+        "growth": 27.278536624331025,
+        "potential profit": 110.22
+    },
+    {
+        "code": "LYV",
+        "name": "Live Nation Entertainment IncShs ",
+        "price": 8476.789284,
+        "P/E": 68.02,
+        "growth": 62.079691897496645,
+        "potential profit": 61.849999999999994
+    },
+    {
+        "code": "LKQ",
+        "name": "LKQ Corp. ",
+        "price": 4252.339278,
+        "P/E": 4.0,
+        "growth": 52.64182424916572,
+        "potential profit": 25.419999999999995
+    },
+    {
+        "code": "LMT",
+        "name": "Lockheed Martin Corp. ",
+        "price": 30159.923562000004,
+        "P/E": 15.61,
+        "growth": 20.127746235497412,
+        "potential profit": 77.18
+    },
+    {
+        "code": "L",
+        "name": "Loews Corp. ",
+        "price": 4618.773324,
+        "P/E": 10000000000000,
+        "growth": 30.004361098996952,
+        "potential profit": 16.82
+    },
+    {
+        "code": "AMP",
+        "name": "Ameriprise Financial Inc ",
+        "price": 23598.197622000003,
+        "P/E": 13.4,
+        "growth": 51.62269785963164,
+        "potential profit": 135.59
+    },
+    {
+        "code": "LOW",
+        "name": "Lowe's Companies Inc. ",
+        "price": 18399.947202,
+        "P/E": 19.21,
+        "growth": 45.310492505353324,
+        "potential profit": 112.47
+    },
+    {
+        "code": "LUMN",
+        "name": "Lumen Technologies Inc Registered Shs ",
+        "price": 957.5316720000001,
+        "P/E": 99.3,
+        "growth": 5.012744265080713,
+        "potential profit": 4.359999999999999
+    },
+    {
+        "code": "LYB",
+        "name": "Lyondellbasell Industries N.V. ",
+        "price": 7493.692446000001,
+        "P/E": 5.17,
+        "growth": 11.555760581247839,
+        "potential profit": 33.849999999999994
+    },
+    {
+        "code": "MTB",
+        "name": "M&T Bank Corp. ",
+        "price": 13118.028966000002,
+        "P/E": 11.21,
+        "growth": 27.469135802469125,
+        "potential profit": 58.22999999999999
+    },
+    {
+        "code": "MRO",
+        "name": "Marathon Oil Corp. ",
+        "price": 1507.957443,
+        "P/E": -5.6,
+        "growth": 165.01021102791015,
+        "potential profit": 13.379999999999999
+    },
+    {
+        "code": "MPC",
+        "name": "Marathon Petroleum Corporation ",
+        "price": 5556.937446000001,
+        "P/E": -11.73,
+        "growth": 65.12430939226519,
+        "potential profit": 33.559999999999995
+    },
+    {
+        "code": "MKTX",
+        "name": "MarketAxess Holdings Inc. ",
+        "price": 26686.934496,
+        "P/E": 60.75,
+        "growth": -39.42995797654423,
+        "potential profit": 268.08
+    },
+    {
+        "code": "MAR",
+        "name": "Marriott Inc. ",
+        "price": 12481.998624000002,
+        "P/E": 713.94,
+        "growth": 36.83227176220808,
+        "potential profit": 56.129999999999995
+    },
+    {
+        "code": "MMC",
+        "name": "Marsh & McLennan Cos. Inc. ",
+        "price": 11917.240866000002,
+        "P/E": 28.2,
+        "growth": 39.883604619441684,
+        "potential profit": 67.83
+    },
+    {
+        "code": "MLM",
+        "name": "Martin Marietta Materials Inc. ",
+        "price": 30144.429522000002,
+        "P/E": 23.54,
+        "growth": 31.447199513546394,
+        "potential profit": 163.90999999999997
+    },
+    {
+        "code": "ABC",
+        "name": "AmerisourceBergen Corp. ",
+        "price": 10550.666538000001,
+        "P/E": 11.45,
+        "growth": 27.411357470296565,
+        "potential profit": 36.239999999999995
+    },
+    {
+        "code": "MAS",
+        "name": "Masco Corp. ",
+        "price": 4907.73717,
+        "P/E": 17.42,
+        "growth": 15.01452432824982,
+        "potential profit": 19.060000000000002
+    },
+    {
+        "code": "MA",
+        "name": "MasterCard Inc. ",
+        "price": 29911.244220000004,
+        "P/E": 43.19,
+        "growth": 20.067170445004194,
+        "potential profit": 95.5
+    },
+    {
+        "code": "MKC",
+        "name": "McCormick & Co. Inc. ",
+        "price": 7773.3598680000005,
+        "P/E": 28.57,
+        "growth": 12.56450527260489,
+        "potential profit": 21.30000000000001
+    },
+    {
+        "code": "MCD",
+        "name": "McDonald's Corp. ",
+        "price": 20085.698754,
+        "P/E": 29.21,
+        "growth": 24.6969988457099,
+        "potential profit": 68.39999999999998
+    },
+    {
+        "code": "MCK",
+        "name": "McKesson Corp. ",
+        "price": 19908.291996000004,
+        "P/E": 11.39,
+        "growth": 42.64779350541215,
+        "potential profit": 88.92999999999998
+    },
+    {
+        "code": "MDT",
+        "name": "Medtronic PLC ",
+        "price": 8014.292190000001,
+        "P/E": 29.34,
+        "growth": -6.944319510659355,
+        "potential profit": 37.50999999999999
+    },
+    {
+        "code": "MRK",
+        "name": "Merck Co. ",
+        "price": 6312.271896000001,
+        "P/E": 13.66,
+        "growth": 10.275786912748956,
+        "potential profit": 76.08000000000001
+    },
+    {
+        "code": "FB",
+        "name": "Meta Platforms (ex Facebook) ",
+        "price": 24268.314852,
+        "P/E": 99.41,
+        "growth": 19.560322125109735,
+        "potential profit": 130.82999999999998
+    },
+    {
+        "code": "MET",
+        "name": "MetLife Inc. ",
+        "price": 5195.926314,
+        "P/E": 7.43,
+        "growth": 38.33144271424149,
+        "potential profit": 21.47
+    },
+    {
+        "code": "MTD",
+        "name": "Mettler-Toledo International Inc. ",
+        "price": 113933.09903400001,
+        "P/E": 98.45,
+        "growth": 24.561269776738825,
+        "potential profit": 681.3499999999999
+    },
+    {
+        "code": "AME",
+        "name": "Ametek Inc. ",
+        "price": 10583.204022000002,
+        "P/E": 29.85,
+        "growth": 18.89469103568321,
+        "potential profit": 35.489999999999995
+    },
+    {
+        "code": "MGM",
+        "name": "MGM Resorts International ",
+        "price": 3309.526944,
+        "P/E": -7.77,
+        "growth": 45.90163934426229,
+        "potential profit": 22.73
+    },
+    {
+        "code": "MCHP",
+        "name": "Microchip Technology Inc. ",
+        "price": 6002.391096,
+        "P/E": 19.37,
+        "growth": 8.934973637961335,
+        "potential profit": 25.459999999999994
+    },
+    {
+        "code": "MU",
+        "name": "Micron Technology Inc. ",
+        "price": 6373.473354,
+        "P/E": 10.34,
+        "growth": 2.2877035931866203,
+        "potential profit": 32.769999999999996
+    },
+    {
+        "code": "MSFT",
+        "name": "Microsoft Corp. ",
+        "price": 24091.682796000005,
+        "P/E": 98.51,
+        "growth": 29.76423951596078,
+        "potential profit": 125.41000000000003
+    },
+    {
+        "code": "MAA",
+        "name": "Mid-America Apartment Communities IncShs ",
+        "price": 16011.540936000001,
+        "P/E": 50.66,
+        "growth": 53.01695417191087,
+        "potential profit": 101.63999999999999
+    },
+    {
+        "code": "MRNA",
+        "name": "Moderna Inc ",
+        "price": 13118.028966000002,
+        "P/E": 86.34,
+        "growth": 7.524765049530103,
+        "potential profit": 379.83000000000004
+    },
+    {
+        "code": "MHK",
+        "name": "Mohawk Industries Inc. ",
+        "price": 12232.544580000002,
+        "P/E": 80.69,
+        "growth": 8.232229762149572,
+        "potential profit": 89.86000000000001
+    },
+    {
+        "code": "TAP",
+        "name": "Molson Coors Brewing Company (MCBC) ",
+        "price": 3693.0044340000004,
+        "P/E": 11.51,
+        "growth": -3.7552998182919453,
+        "potential profit": 19.0
+    },
+    {
+        "code": "MDLZ",
+        "name": "Mondelez ",
+        "price": 5192.8275060000005,
+        "P/E": 23.84,
+        "growth": 21.321266968325787,
+        "potential profit": 16.560000000000002
+    },
+    {
+        "code": "MPWR",
+        "name": "Monolithic Power Systems Inc. ",
+        "price": 31215.067686000002,
+        "P/E": 69.45,
+        "growth": 9.512679042209115,
+        "potential profit": 278.49
+    },
+    {
+        "code": "AMGN",
+        "name": "Amgen Inc. ",
+        "price": 17596.581228,
+        "P/E": 13.7,
+        "growth": -5.527596389801602,
+        "potential profit": 62.25999999999999
+    },
+    {
+        "code": "MNST",
+        "name": "Monster Beverage Corp ",
+        "price": 6718.215744,
+        "P/E": 70.36,
+        "growth": -1.7337110481586393,
+        "potential profit": 18.97
+    },
+    {
+        "code": "MCO",
+        "name": "Moody's Corp. ",
+        "price": 26572.2786,
+        "P/E": 27.53,
+        "growth": 26.708533431843378,
+        "potential profit": 144.27999999999997
+    },
+    {
+        "code": "MS",
+        "name": "Morgan Stanley ",
+        "price": 7943.794308000001,
+        "P/E": 12.01,
+        "growth": 51.52948130633959,
+        "potential profit": 39.61
+    },
+    {
+        "code": "MSI",
+        "name": "Motorola Solutions Inc. ",
+        "price": 17980.83342,
+        "P/E": 21.64,
+        "growth": 32.993353197341264,
+        "potential profit": 106.82000000000002
+    },
+    {
+        "code": "MSCI",
+        "name": "MSCI ",
+        "price": 41537.197134,
+        "P/E": 62.66,
+        "growth": 28.825084094185485,
+        "potential profit": 298.68000000000006
+    },
+    {
+        "code": "NDAQ",
+        "name": "Nasdaq Inc ",
+        "price": 13883.434542,
+        "P/E": 27.67,
+        "growth": 29.29081595844454,
+        "potential profit": 80.75
+    },
+    {
+        "code": "NTAP",
+        "name": "NetApp Inc. ",
+        "price": 6701.947002000001,
+        "P/E": 18.52,
+        "growth": 30.917070217917683,
+        "potential profit": 37.980000000000004
+    },
+    {
+        "code": "NFLX",
+        "name": "Netflix Inc. ",
+        "price": 33090.621228,
+        "P/E": 98.4,
+        "growth": -20.759127337488863,
+        "potential profit": 349.52
+    },
+    {
+        "code": "NWL",
+        "name": "Newell Brands Inc ",
+        "price": 1798.0833420000001,
+        "P/E": 11.56,
+        "growth": -4.818535985236835,
+        "potential profit": 9.73
+    },
+    {
+        "code": "NEM",
+        "name": "Newmont Mining Corp. (NMC) ",
+        "price": 4738.852134000001,
+        "P/E": 22.45,
+        "growth": 2.1372516279846394,
+        "potential profit": 22.700000000000003
+    },
+    {
+        "code": "APH",
+        "name": "Amphenol Corp. ",
+        "price": 6165.0785160000005,
+        "P/E": 35.31,
+        "growth": 26.75001990921399,
+        "potential profit": 29.86
+    },
+    {
+        "code": "NWS",
+        "name": "News Corp (B) ",
+        "price": 1722.937248,
+        "P/E": 36.1,
+        "growth": 18.36083022884513,
+        "potential profit": 7.900000000000002
+    },
+    {
+        "code": "NWSA",
+        "name": "News Corp LLC ",
+        "price": 1722.937248,
+        "P/E": 37.87,
+        "growth": 14.816726897263806,
+        "potential profit": 9.25
+    },
+    {
+        "code": "NEE",
+        "name": "NextEra Energy Inc ",
+        "price": 6053.521428000001,
+        "P/E": 36.51,
+        "growth": -4.345697147753697,
+        "potential profit": 25.400000000000006
+    },
+    {
+        "code": "NLSN",
+        "name": "Nielsen Holdings PLC ",
+        "price": 1461.087972,
+        "P/E": 12.17,
+        "growth": -17.35319894829098,
+        "potential profit": 10.600000000000001
+    },
+    {
+        "code": "NKE",
+        "name": "Nike Inc. ",
+        "price": 11467.913706000001,
+        "P/E": 38.34,
+        "growth": 9.08621960206338,
+        "potential profit": 53.66
+    },
+    {
+        "code": "NI",
+        "name": "Nisource Inc. ",
+        "price": 2260.580436,
+        "P/E": 16.87,
+        "growth": 31.323132313231326,
+        "potential profit": 8.16
+    },
+    {
+        "code": "NSC",
+        "name": "Norfolk Southern Corp. ",
+        "price": 21078.866718,
+        "P/E": 24.51,
+        "growth": 13.234008905905355,
+        "potential profit": 63.099999999999994
+    },
+    {
+        "code": "NTRS",
+        "name": "Northern Trust Corp. ",
+        "price": 9036.124128000001,
+        "P/E": 16.89,
+        "growth": 28.798586572438154,
+        "potential profit": 46.95
+    },
+    {
+        "code": "NOC",
+        "name": "Northrop Grumman Corp. ",
+        "price": 28644.606450000003,
+        "P/E": 15.08,
+        "growth": 26.574695330686012,
+        "potential profit": 126.09000000000003
+    },
+    {
+        "code": "NLOK",
+        "name": "NortonLifeLock ",
+        "price": 2014.9999020000002,
+        "P/E": 14.58,
+        "growth": 21.315298507462686,
+        "potential profit": 9.510000000000002
+    },
+    {
+        "code": "ADI",
+        "name": "Analog Devices Inc. ",
+        "price": 12702.788694,
+        "P/E": 22.79,
+        "growth": 7.960231761917299,
+        "potential profit": 49.69999999999999
+    },
+    {
+        "code": "NCLH",
+        "name": "Norwegian Cruise Line Ltd ",
+        "price": 1612.929564,
+        "P/E": 99.12,
+        "growth": -6.845637583892625,
+        "potential profit": 16.699999999999996
+    },
+    {
+        "code": "NRG",
+        "name": "NRG Energy Inc. ",
+        "price": 3094.159788,
+        "P/E": 6.1,
+        "growth": -5.433881851544925,
+        "potential profit": 14.16
+    },
+    {
+        "code": "NUE",
+        "name": "Nucor Corp. ",
+        "price": 7853.928876,
+        "P/E": 4.92,
+        "growth": 106.94019187589302,
+        "potential profit": 80.87
+    },
+    {
+        "code": "NVDA",
+        "name": "NVIDIA Corp. ",
+        "price": 18969.353172000003,
+        "P/E": 51.8,
+        "growth": 84.98149127445797,
+        "potential profit": 230.69
+    },
+    {
+        "code": "NVR",
+        "name": "NVR Inc. ",
+        "price": 410423.94966600003,
+        "P/E": 94.28,
+        "growth": 16.6920337179874,
+        "potential profit": 1643.1599999999999
+    },
+    {
+        "code": "NXPI",
+        "name": "NXP Semiconductors N.V. ",
+        "price": 15915.477888000001,
+        "P/E": 24.82,
+        "growth": 19.769136594181774,
+        "potential profit": 80.08000000000001
+    },
+    {
+        "code": "ORLY",
+        "name": "O Reilly Automotive Inc ",
+        "price": 50491.20285,
+        "P/E": 98.89,
+        "growth": 49.29903330737159,
+        "potential profit": 286.57000000000005
+    },
+    {
+        "code": "MOS",
+        "name": "The Mosaic Co ",
+        "price": 3094.159788,
+        "P/E": 25.26,
+        "growth": 48.780033525796256,
+        "potential profit": 18.220000000000002
+    },
+    {
+        "code": "OXY",
+        "name": "Occidental Petroleum Corp. ",
+        "price": 2917.527732,
+        "P/E": -4.41,
+        "growth": 84.60784313725489,
+        "potential profit": 19.2
+    },
+    {
+        "code": "ODFL",
+        "name": "Old Dominion Freight Line Inc. ",
+        "price": 23390.577486000002,
+        "P/E": 33.83,
+        "growth": 51.64741336012054,
+        "potential profit": 179.61999999999998
+    },
+    {
+        "code": "ABMD",
+        "name": "ABIOMED Inc. ",
+        "price": 22921.108074000003,
+        "P/E": 4.2,
+        "growth": -13.452875446089053,
+        "potential profit": 117.93
+    },
+    {
+        "code": "ANSS",
+        "name": "ANSYS Inc. ",
+        "price": 26340.642702,
+        "P/E": 99.61,
+        "growth": -7.590911561667667,
+        "potential profit": 121.09999999999997
+    },
+    {
+        "code": "OMC",
+        "name": "Omnicom Group Inc. ",
+        "price": 5838.154272000001,
+        "P/E": 12.4,
+        "growth": 19.980894761980565,
+        "potential profit": 24.609999999999992
+    },
+    {
+        "code": "OKE",
+        "name": "ONEOK Inc (New) ",
+        "price": 4700.117034000001,
+        "P/E": 26.58,
+        "growth": 51.59920039980008,
+        "potential profit": 27.880000000000003
+    },
+    {
+        "code": "ORCL",
+        "name": "Oracle Corp. ",
+        "price": 6287.4814320000005,
+        "P/E": 16.98,
+        "growth": 31.946025036579414,
+        "potential profit": 46.1
+    },
+    {
+        "code": "OGN",
+        "name": "Organon & Company ",
+        "price": 2472.074082,
+        "P/E": 0.96,
+        "growth": -0.28125,
+        "potential profit": 0
+    },
+    {
+        "code": "OTIS",
+        "name": "Otis Worldwide Corporation Registered Shs When Issued ",
+        "price": 6615.955080000001,
+        "P/E": 25.84,
+        "growth": 32.42363157078617,
+        "potential profit": 30.5
+    },
+    {
+        "code": "PCAR",
+        "name": "Paccar Inc. ",
+        "price": 7203.953898,
+        "P/E": 16.53,
+        "growth": 1.985084448343926,
+        "potential profit": 23.440000000000012
+    },
+    {
+        "code": "PKG",
+        "name": "Packaging Corp. of America ",
+        "price": 11652.292782,
+        "P/E": 14.29,
+        "growth": 11.762520433942626,
+        "potential profit": 31.749999999999986
+    },
+    {
+        "code": "PH",
+        "name": "Parker Hannifin Corp. ",
+        "price": 24016.536702,
+        "P/E": 20.03,
+        "growth": 15.684006269124552,
+        "potential profit": 74.50999999999999
+    },
+    {
+        "code": "PAYX",
+        "name": "Paychex Inc. ",
+        "price": 9122.890752000001,
+        "P/E": 33.23,
+        "growth": 31.87010078387459,
+        "potential profit": 52.69
+    },
+    {
+        "code": "PAYC",
+        "name": "Paycom Software Inc ",
+        "price": 25974.983358000005,
+        "P/E": 84.37,
+        "growth": -15.392767922481013,
+        "potential profit": 262.29
+    },
+    {
+        "code": "ANTM",
+        "name": "Anthem Inc. ",
+        "price": 34150.413564,
+        "P/E": 17.91,
+        "growth": 50.76954648060743,
+        "potential profit": 183.94
+    },
+    {
+        "code": "PYPL",
+        "name": "PayPal Inc ",
+        "price": 13320.226188,
+        "P/E": 59.92,
+        "growth": -28.906346909241265,
+        "potential profit": 158.08
+    },
+    {
+        "code": "PENN",
+        "name": "Penn National Gaming Inc. ",
+        "price": 3533.4158220000004,
+        "P/E": 98.25,
+        "growth": -56.13579534525871,
+        "potential profit": 104.24000000000001
+    },
+    {
+        "code": "PNR",
+        "name": "Pentair PLC ",
+        "price": 4934.851740000001,
+        "P/E": 20.46,
+        "growth": 16.966580976863753,
+        "potential profit": 27.250000000000007
+    },
+    {
+        "code": "PBCT",
+        "name": "People's United Financial IncShs ",
+        "price": 1501.372476,
+        "P/E": 99.16,
+        "growth": 41.15076474872541,
+        "potential profit": 8.240000000000002
+    },
+    {
+        "code": "PEP",
+        "name": "PepsiCo Inc. ",
+        "price": 13442.629104000001,
+        "P/E": 26.77,
+        "growth": 26.67542706964521,
+        "potential profit": 48.920000000000016
+    },
+    {
+        "code": "PKI",
+        "name": "PerkinElmer Inc. ",
+        "price": 13337.269632000001,
+        "P/E": 16.66,
+        "growth": 13.278062903013563,
+        "potential profit": 83.21
+    },
+    {
+        "code": "PFE",
+        "name": "Pfizer Inc. ",
+        "price": 4081.904838,
+        "P/E": 16.67,
+        "growth": 47.21989382509082,
+        "potential profit": 28.35
+    },
+    {
+        "code": "PM",
+        "name": "Philip Morris Inc. ",
+        "price": 7969.359474000001,
+        "P/E": 15.9,
+        "growth": 30.13282732447817,
+        "potential profit": 28.17
+    },
+    {
+        "code": "PSX",
+        "name": "Phillips 66 ",
+        "price": 6569.47296,
+        "P/E": 12.8,
+        "growth": 25.81602373887239,
+        "potential profit": 31.14
+    },
+    {
+        "code": "PNW",
+        "name": "Pinnacle West Capital Corp. ",
+        "price": 5393.475324000001,
+        "P/E": 16.21,
+        "growth": -8.635170603674538,
+        "potential profit": 25.760000000000005
+    },
+    {
+        "code": "AON",
+        "name": "Aon PLC Registered Shs ",
+        "price": 21424.383810000003,
+        "P/E": 20.59,
+        "growth": 33.799409744061165,
+        "potential profit": 123.93
+    },
+    {
+        "code": "PXD",
+        "name": "Pioneer Natural Resources Co. ",
+        "price": 16957.452078,
+        "P/E": 96.78,
+        "growth": 81.86274509803923,
+        "potential profit": 102.95000000000002
+    },
+    {
+        "code": "PNC",
+        "name": "PNC Financial Services Group Inc. ",
+        "price": 15956.537094000001,
+        "P/E": 16.11,
+        "growth": 41.191390183712656,
+        "potential profit": 85.16
+    },
+    {
+        "code": "POOL",
+        "name": "Pool Corp. ",
+        "price": 36895.18275,
+        "P/E": 42.73,
+        "growth": 32.35784558946139,
+        "potential profit": 276.79999999999995
+    },
+    {
+        "code": "PPG",
+        "name": "PPG Industries Inc. ",
+        "price": 12093.872922000002,
+        "P/E": 25.2,
+        "growth": 12.621289182267432,
+        "potential profit": 50.870000000000005
+    },
+    {
+        "code": "PPL",
+        "name": "PPL Corp. ",
+        "price": 2299.315536,
+        "P/E": 11.53,
+        "growth": 6.303724928366762,
+        "potential profit": 4.57
+    },
+    {
+        "code": "PFG",
+        "name": "Principal Financial Group Inc. ",
+        "price": 5659.972812000001,
+        "P/E": 9.66,
+        "growth": 45.7410732096549,
+        "potential profit": 28.800000000000004
+    },
+    {
+        "code": "PG",
+        "name": "Procter & Gamble Co. ",
+        "price": 12430.09359,
+        "P/E": 23.79,
+        "growth": 24.399131648317564,
+        "potential profit": 43.80999999999999
+    },
+    {
+        "code": "PGR",
+        "name": "Progressive Corp. ",
+        "price": 8418.686634000002,
+        "P/E": 30.0,
+        "growth": 26.038042217582927,
+        "potential profit": 26.659999999999997
+    },
+    {
+        "code": "PLD",
+        "name": "Prologis Inc. ",
+        "price": 12144.228552,
+        "P/E": 43.24,
+        "growth": 47.97054936756655,
+        "potential profit": 75.77999999999999
+    },
+    {
+        "code": "PRU",
+        "name": "Prudential Financial Inc. ",
+        "price": 8646.449022,
+        "P/E": 7.43,
+        "growth": 41.36795440151994,
+        "potential profit": 40.66000000000001
+    },
+    {
+        "code": "APA",
+        "name": "APA Corporation Registered Shs ",
+        "price": 2572.785342,
+        "P/E": -13.09,
+        "growth": 119.64285714285717,
+        "potential profit": 20.449999999999996
+    },
+    {
+        "code": "PTC",
+        "name": "PTC Inc ",
+        "price": 9006.685452000002,
+        "P/E": 4.34,
+        "growth": -15.138686131386862,
+        "potential profit": 48.239999999999995
+    },
+    {
+        "code": "PEG",
+        "name": "Public Service Enterprise Group Inc. ",
+        "price": 5154.867108000001,
+        "P/E": 16.49,
+        "growth": 16.471206021354817,
+        "potential profit": 13.850000000000001
+    },
+    {
+        "code": "PSA",
+        "name": "Public Storage ",
+        "price": 27768.418488000003,
+        "P/E": 35.84,
+        "growth": 54.04847859721505,
+        "potential profit": 152.54000000000002
+    },
+    {
+        "code": "PHM",
+        "name": "PulteGroup Inc ",
+        "price": 4081.130136,
+        "P/E": 8.51,
+        "growth": 17.589285714285722,
+        "potential profit": 21.599999999999994
+    },
+    {
+        "code": "PVH",
+        "name": "PVH Corp. ",
+        "price": 7364.317212000001,
+        "P/E": -44.03,
+        "growth": 15.23821069220513,
+        "potential profit": 46.629999999999995
+    },
+    {
+        "code": "QRVO",
+        "name": "Qorvo Inc ",
+        "price": 10635.109056000001,
+        "P/E": 19.36,
+        "growth": -25.106382978723403,
+        "potential profit": 77.64
+    },
+    {
+        "code": "QCOM",
+        "name": "QUALCOMM Inc. ",
+        "price": 13616.162352,
+        "P/E": 13.18,
+        "growth": 8.775838593885368,
+        "potential profit": 71.39999999999999
+    },
+    {
+        "code": "PWR",
+        "name": "Quanta Services Inc. ",
+        "price": 7954.640136000001,
+        "P/E": 18.42,
+        "growth": 40.92780675267636,
+        "potential profit": 54.790000000000006
+    },
+    {
+        "code": "DGX",
+        "name": "Quest Diagnostics Inc. ",
+        "price": 10463.125212,
+        "P/E": 10.56,
+        "growth": 1.229201019337438,
+        "potential profit": 60.8
+    },
+    {
+        "code": "RL",
+        "name": "Ralph Lauren Corp (A) ",
+        "price": 8585.247564,
+        "P/E": 98.22,
+        "growth": 8.190959679781301,
+        "potential profit": 42.14
+    },
+    {
+        "code": "AAPL",
+        "name": "Apple Inc. ",
+        "price": 13540.241556,
+        "P/E": 21.91,
+        "growth": 30.2967049351424,
+        "potential profit": 66.69000000000001
+    },
+    {
+        "code": "RJF",
+        "name": "Raymond James Financial Inc. ",
+        "price": 8200.22067,
+        "P/E": 11.42,
+        "growth": 55.09914256622338,
+        "potential profit": 44.59
+    },
+    {
+        "code": "RTX",
+        "name": "Raytheon Technologies Corp ",
+        "price": 6984.713232,
+        "P/E": 20.17,
+        "growth": 34.56716417910448,
+        "potential profit": 26.36
+    },
+    {
+        "code": "O",
+        "name": "Realty Income Corp. ",
+        "price": 5377.981284,
+        "P/E": 53.69,
+        "growth": 18.96629905132002,
+        "potential profit": 16.03000000000001
+    },
+    {
+        "code": "REG",
+        "name": "Regency Centers Corp. ",
+        "price": 5558.48685,
+        "P/E": 171.35,
+        "growth": 52.85470813804858,
+        "potential profit": 33.21
+    },
+    {
+        "code": "REGN",
+        "name": "Regeneron Pharmaceuticals Inc. ",
+        "price": 47147.589018000006,
+        "P/E": 48.17,
+        "growth": 19.78231774523698,
+        "potential profit": 245.62
+    },
+    {
+        "code": "RF",
+        "name": "Regions Financial Corp. ",
+        "price": 1776.3916860000002,
+        "P/E": 8.82,
+        "growth": 32.39030023094688,
+        "potential profit": 8.620000000000001
+    },
+    {
+        "code": "RSG",
+        "name": "Republic Services Inc. ",
+        "price": 9888.296328,
+        "P/E": 26.64,
+        "growth": 40.32541776605103,
+        "potential profit": 56.74000000000001
+    },
+    {
+        "code": "RMD",
+        "name": "ResMed Inc. ",
+        "price": 17705.039508,
+        "P/E": 45.81,
+        "growth": 12.76459268762028,
+        "potential profit": 121.78999999999999
+    },
+    {
+        "code": "RHI",
+        "name": "Robert Half ",
+        "price": 8780.472468000002,
+        "P/E": 97.13,
+        "growth": 64.81023702195725,
+        "potential profit": 55.989999999999995
+    },
+    {
+        "code": "ROK",
+        "name": "Rockwell Automation Inc. ",
+        "price": 22405.931244000003,
+        "P/E": 27.25,
+        "growth": 16.776355634513692,
+        "potential profit": 117.85000000000002
+    },
+    {
+        "code": "AMAT",
+        "name": "Applied Materials Inc. ",
+        "price": 10704.832236000002,
+        "P/E": 99.54,
+        "growth": 36.52801106610019,
+        "potential profit": 70.99000000000001
+    },
+    {
+        "code": "ROL",
+        "name": "Rollins IncShs ",
+        "price": 2389.180968,
+        "P/E": 47.02,
+        "growth": -14.759535655058045,
+        "potential profit": 11.599999999999998
+    },
+    {
+        "code": "ROP",
+        "name": "Roper Industries Inc. ",
+        "price": 33870.746142,
+        "P/E": 32.66,
+        "growth": 11.675606641123878,
+        "potential profit": 139.69
+    },
+    {
+        "code": "ROST",
+        "name": "Ross Stores Inc. ",
+        "price": 7572.71205,
+        "P/E": 142.81,
+        "growth": -13.041544346588381,
+        "potential profit": 41.67
+    },
+    {
+        "code": "RCL",
+        "name": "Royal Caribbean Cruises Ltd. ",
+        "price": 6031.05507,
+        "P/E": -3.97,
+        "growth": 18.439068918302127,
+        "potential profit": 35.03999999999999
+    },
+    {
+        "code": "SPGI",
+        "name": "S&P Global Inc ",
+        "price": 32168.725848000002,
+        "P/E": 27.31,
+        "growth": 29.028649555652237,
+        "potential profit": 172.21999999999997
+    },
+    {
+        "code": "CRM",
+        "name": "Salesforce ",
+        "price": 18018.793818000002,
+        "P/E": 96.66,
+        "growth": 1.812212738017081,
+        "potential profit": 110.23000000000002
+    },
+    {
+        "code": "SBAC",
+        "name": "SBA Communications REIT (A) ",
+        "price": 25211.901888,
+        "P/E": 1298.5,
+        "growth": 16.951162539979165,
+        "potential profit": 158.26999999999998
+    },
+    {
+        "code": "SLB",
+        "name": "Schlumberger N.V. (Ltd.) ",
+        "price": 3026.7607140000005,
+        "P/E": 23.19,
+        "growth": 76.22913847541722,
+        "potential profit": 19.23
+    },
+    {
+        "code": "STX",
+        "name": "Seagate Technology Holdings PLC Registered Shs ",
+        "price": 8300.93193,
+        "P/E": 8.98,
+        "growth": 7.623543591803937,
+        "potential profit": 0
+    },
+    {
+        "code": "SEE",
+        "name": "Sealed Air Corp. ",
+        "price": 5260.2265800000005,
+        "P/E": 14.04,
+        "growth": 58.71902758298273,
+        "potential profit": 28.53
+    },
+    {
+        "code": "APTV",
+        "name": "Aptiv (ex Delphi Automotive) ",
+        "price": 10582.041969,
+        "P/E": 65.32,
+        "growth": -1.6382227983005748,
+        "potential profit": 53.120000000000005
+    },
+    {
+        "code": "SRE",
+        "name": "Sempra Energy ",
+        "price": 10702.508130000002,
+        "P/E": 15.55,
+        "growth": 10.62620115310699,
+        "potential profit": 30.220000000000013
+    },
+    {
+        "code": "NOW",
+        "name": "ServiceNow Inc ",
+        "price": 45382.04316,
+        "P/E": 7.33,
+        "growth": 4.801774724488311,
+        "potential profit": 259.33000000000004
+    },
+    {
+        "code": "SHW",
+        "name": "Sherwin-Williams Co. ",
+        "price": 22194.437598000004,
+        "P/E": 43.07,
+        "growth": 23.1173666179824,
+        "potential profit": 135.95
+    },
+    {
+        "code": "SPG",
+        "name": "Simon Property Group Inc. ",
+        "price": 11403.61344,
+        "P/E": 23.11,
+        "growth": 58.313615831361545,
+        "potential profit": 80.52000000000001
+    },
+    {
+        "code": "SWKS",
+        "name": "Skyworks Solutions Inc. ",
+        "price": 11350.933704000001,
+        "P/E": 99.63,
+        "growth": -21.1367673179396,
+        "potential profit": 70.18
+    },
+    {
+        "code": "SNA",
+        "name": "Snap-On Inc. ",
+        "price": 16140.141468000002,
+        "P/E": 14.42,
+        "growth": 12.415690929692971,
+        "potential profit": 84.07000000000002
+    },
+    {
+        "code": "SO",
+        "name": "Southern Co. ",
+        "price": 5383.404198,
+        "P/E": 18.42,
+        "growth": 17.540595399188078,
+        "potential profit": 12.509999999999998
+    },
+    {
+        "code": "LUV",
+        "name": "Southwest Airlines Co. ",
+        "price": 3467.566152,
+        "P/E": -19.78,
+        "growth": -0.044662795891028395,
+        "potential profit": 26.08
+    },
+    {
+        "code": "SWK",
+        "name": "Stanley Black & Decker Inc ",
+        "price": 13548.763278,
+        "P/E": 19.28,
+        "growth": 0.344253829823856,
+        "potential profit": 58.54999999999998
+    },
+    {
+        "code": "SBUX",
+        "name": "Starbucks Corp. ",
+        "price": 7616.870064,
+        "P/E": 29.83,
+        "growth": -0.26374518157841464,
+        "potential profit": 32.52999999999999
+    },
+    {
+        "code": "ADM",
+        "name": "Archer Daniels Midland Co. (ADM) ",
+        "price": 5797.095066,
+        "P/E": 12.93,
+        "growth": 48.207565854624676,
+        "potential profit": 26.25999999999999
+    },
+    {
+        "code": "STT",
+        "name": "State Street Corp. ",
+        "price": 7320.933900000001,
+        "P/E": 12.64,
+        "growth": 34.63456332810941,
+        "potential profit": 35.84
+    },
+    {
+        "code": "STE",
+        "name": "STERIS PLC Registered Shs ",
+        "price": 17386.636986,
+        "P/E": 30.6,
+        "growth": 20.44759298019642,
+        "potential profit": 77.9
+    },
+    {
+        "code": "SYK",
+        "name": "Stryker Corp. ",
+        "price": 19227.328938000002,
+        "P/E": 29.9,
+        "growth": 9.590674261491586,
+        "potential profit": 60.25000000000003
+    },
+    {
+        "code": "SIVB",
+        "name": "SVB Financial Group Shs ",
+        "price": 45234.849780000004,
+        "P/E": 30.81,
+        "growth": 27.899590388364402,
+        "potential profit": 327.45000000000005
+    },
+    {
+        "code": "SYF",
+        "name": "Synchrony Financial ",
+        "price": 3299.0684670000005,
+        "P/E": 6.46,
+        "growth": 22.723342939481256,
+        "potential profit": 19.080000000000005
+    },
+    {
+        "code": "SNPS",
+        "name": "Synopsys Inc. ",
+        "price": 24054.4971,
+        "P/E": 99.4,
+        "growth": 17.805516561065375,
+        "potential profit": 159.91000000000003
+    },
+    {
+        "code": "SYY",
+        "name": "Sysco Corp. ",
+        "price": 6056.620236000001,
+        "P/E": 52.67,
+        "growth": 9.266247379454938,
+        "potential profit": 18.67
+    },
+    {
+        "code": "TROW",
+        "name": "T. Rowe Price Group Inc. ",
+        "price": 11963.722986,
+        "P/E": 15.52,
+        "growth": -1.0634890127490593,
+        "potential profit": 80.92000000000002
+    },
+    {
+        "code": "TTWO",
+        "name": "Take Two ",
+        "price": 12653.982468000002,
+        "P/E": 93.42,
+        "growth": -18.712053349258483,
+        "potential profit": 76.72
+    },
+    {
+        "code": "TPR",
+        "name": "Tapestry ",
+        "price": 2939.9940900000006,
+        "P/E": 14.11,
+        "growth": 19.227144203581545,
+        "potential profit": 18.520000000000003
+    },
+    {
+        "code": "ANET",
+        "name": "Arista Networks Inc ",
+        "price": 9631.869966,
+        "P/E": 74.63,
+        "growth": 57.22053616590796,
+        "potential profit": 83.05
+    },
+    {
+        "code": "TGT",
+        "name": "Target Corp. ",
+        "price": 17081.404398000002,
+        "P/E": 19.2,
+        "growth": 20.046823106658692,
+        "potential profit": 102.15
+    },
+    {
+        "code": "TEL",
+        "name": "TE Connectivity Ltd. ",
+        "price": 11088.309726000001,
+        "P/E": 99.77,
+        "growth": 14.98232647814909,
+        "potential profit": 48.55000000000001
+    },
+    {
+        "code": "TDY",
+        "name": "Teledyne Technologies Inc. ",
+        "price": 32642.068770000005,
+        "P/E": 98.63,
+        "growth": 12.765957446808514,
+        "potential profit": 111.56
+    },
+    {
+        "code": "TFX",
+        "name": "Teleflex Inc.Shs ",
+        "price": 24046.75008,
+        "P/E": 37.62,
+        "growth": -18.270623239158496,
+        "potential profit": 160.38
+    },
+    {
+        "code": "TER",
+        "name": "Teradyne Inc. ",
+        "price": 9097.325586,
+        "P/E": 27.68,
+        "growth": -0.10208421948107116,
+        "potential profit": 66.39
+    },
+    {
+        "code": "TSLA",
+        "name": "Tesla ",
+        "price": 72567.88574400001,
+        "P/E": 10.78,
+        "growth": 11.539514890272812,
+        "potential profit": 704.0
+    },
+    {
+        "code": "TXN",
+        "name": "Texas Instruments Inc. (TI) ",
+        "price": 13905.126198000002,
+        "P/E": 23.17,
+        "growth": 4.076307549576711,
+        "potential profit": 40.59
+    },
+    {
+        "code": "TXT",
+        "name": "Textron Inc. ",
+        "price": 5271.84711,
+        "P/E": 23.48,
+        "growth": 50.08822232024701,
+        "potential profit": 35.080000000000005
+    },
+    {
+        "code": "KHC",
+        "name": "The Kraft Heinz Company ",
+        "price": 2773.43316,
+        "P/E": 12.14,
+        "growth": 7.6691729323308095,
+        "potential profit": 12.220000000000006
+    },
+    {
+        "code": "TMO",
+        "name": "Thermo Fisher Scientific Inc ",
+        "price": 45037.30077,
+        "P/E": 23.72,
+        "growth": 12.861580275674626,
+        "potential profit": 238.82000000000005
+    },
+    {
+        "code": "AJG",
+        "name": "Arthur J. Gallagher & Co. ",
+        "price": 12231.769878,
+        "P/E": 30.92,
+        "growth": 37.0691900338571,
+        "potential profit": 57.91000000000001
+    },
+    {
+        "code": "TJX",
+        "name": "TJX Cos. Inc. ",
+        "price": 5575.530294,
+        "P/E": 251.56,
+        "growth": 12.36533957845434,
+        "potential profit": 16.199999999999996
+    },
+    {
+        "code": "TMUS",
+        "name": "T-Mobile US ",
+        "price": 8379.951534000002,
+        "P/E": 50.42,
+        "growth": -15.76857187353994,
+        "potential profit": 48.67999999999999
+    },
+    {
+        "code": "TSCO",
+        "name": "Tractor Supply Co. ",
+        "price": 16912.519362000003,
+        "P/E": 27.42,
+        "growth": 56.24821070712855,
+        "potential profit": 100.75
+    },
+    {
+        "code": "TT",
+        "name": "Trane Technologies PLC ",
+        "price": 13402.3446,
+        "P/E": 32.11,
+        "growth": 21.267348941539325,
+        "potential profit": 65.81
+    },
+    {
+        "code": "TDG",
+        "name": "TransDigm Group IncShs ",
+        "price": 47758.054194000004,
+        "P/E": 44.95,
+        "growth": 7.931088817690011,
+        "potential profit": 148.2199999999999
+    },
+    {
+        "code": "TRV",
+        "name": "Travelers Inc (Travelers Companies) ",
+        "price": 12871.673730000002,
+        "P/E": 11.3,
+        "growth": 20.16344832573948,
+        "potential profit": 35.57000000000002
+    },
+    {
+        "code": "ACN",
+        "name": "Accenture plc ",
+        "price": 27391.138614000003,
+        "P/E": 32.42,
+        "growth": 42.93164086186684,
+        "potential profit": 175.54
+    },
+    {
+        "code": "GWW",
+        "name": "Grainger Inc., W.W. ",
+        "price": 38355.496020000006,
+        "P/E": 24.88,
+        "growth": 33.62662276321828,
+        "potential profit": 170.72999999999996
+    },
+    {
+        "code": "TRMB",
+        "name": "Trimble Navigation ",
+        "price": 5590.249632,
+        "P/E": 2.96,
+        "growth": 6.556408741878329,
+        "potential profit": 31.11999999999999
+    },
+    {
+        "code": "TFC",
+        "name": "Truist Financial Corporation ",
+        "price": 4869.0020700000005,
+        "P/E": 13.1,
+        "growth": 29.909053327821397,
+        "potential profit": 21.25
+    },
+    {
+        "code": "TWTR",
+        "name": "Twitter ",
+        "price": 2905.907202,
+        "P/E": 97.0,
+        "growth": -28.782988418454536,
+        "potential profit": 48.69
+    },
+    {
+        "code": "TYL",
+        "name": "Tyler Technologies Inc. ",
+        "price": 36681.364998000005,
+        "P/E": 8.15,
+        "growth": 10.99156118143459,
+        "potential profit": 184.74999999999994
+    },
+    {
+        "code": "TSN",
+        "name": "Tyson Foods Inc. ",
+        "price": 7041.2664780000005,
+        "P/E": 8.34,
+        "growth": 41.52911865462474,
+        "potential profit": 31.5
+    },
+    {
+        "code": "USB",
+        "name": "U.S. Bancorp ",
+        "price": 4507.216236,
+        "P/E": 11.23,
+        "growth": 36.09356725146199,
+        "potential profit": 21.1
+    },
+    {
+        "code": "UDR",
+        "name": "UDR Inc ",
+        "price": 4402.631466,
+        "P/E": 184.81,
+        "growth": 46.544610624033,
+        "potential profit": 23.21
+    },
+    {
+        "code": "ULTA",
+        "name": "Ulta Beauty Inc Registered Shs ",
+        "price": 28179.010548000002,
+        "P/E": 98.12,
+        "growth": 28.889833811700527,
+        "potential profit": 146.43
+    },
+    {
+        "code": "UA",
+        "name": "Under Armour Inc When Issued ",
+        "price": 1238.7484980000002,
+        "P/E": 85.2,
+        "growth": 3.8311688311688243,
+        "potential profit": 8.219999999999999
+    },
+    {
+        "code": "ATVI",
+        "name": "Activision Blizzard Inc. ",
+        "price": 6120.920502000001,
+        "P/E": 26.4,
+        "growth": -13.574710129074589,
+        "potential profit": 48.13
+    },
+    {
+        "code": "UAA",
+        "name": "Under Armour Inc. ",
+        "price": 1457.989164,
+        "P/E": 99.64,
+        "growth": 4.67185761957731,
+        "potential profit": 9.990000000000002
+    },
+    {
+        "code": "UNP",
+        "name": "Union Pacific Corp. ",
+        "price": 18936.815688000002,
+        "P/E": 25.35,
+        "growth": 23.069177323532372,
+        "potential profit": 60.43000000000001
+    },
+    {
+        "code": "UAL",
+        "name": "United Airlines Holdings Inc Registered Shs ",
+        "price": 3321.9221760000005,
+        "P/E": -0.57,
+        "growth": 7.374483535745583,
+        "potential profit": 24.89
+    },
+    {
+        "code": "UPS",
+        "name": "United Parcel Service Inc. (UPS) ",
+        "price": 15670.672056000001,
+        "P/E": 20.6,
+        "growth": 29.409506749408223,
+        "potential profit": 65.46000000000001
+    },
+    {
+        "code": "URI",
+        "name": "United Rentals Inc. ",
+        "price": 24774.195258000003,
+        "P/E": 27.05,
+        "growth": 26.25449089975919,
+        "potential profit": 176.28
+    },
+    {
+        "code": "UNH",
+        "name": "UnitedHealth Inc. ",
+        "price": 36607.768308000006,
+        "P/E": 26.72,
+        "growth": 41.45363108423638,
+        "potential profit": 188.70999999999998
+    },
+    {
+        "code": "UHS",
+        "name": "Universal Health Services Inc. ",
+        "price": 10066.477788,
+        "P/E": 12.22,
+        "growth": 1.746143606608726,
+        "potential profit": 48.510000000000005
+    },
+    {
+        "code": "VFC",
+        "name": "V.F. Corp. ",
+        "price": 5052.606444,
+        "P/E": 60.8,
+        "growth": -17.04400915797507,
+        "potential profit": 29.290000000000006
+    },
+    {
+        "code": "VLO",
+        "name": "Valero Energy Corp. ",
+        "price": 6427.315143000001,
+        "P/E": 26.49,
+        "growth": 47.41471215351811,
+        "potential profit": 31.739999999999995
+    },
+    {
+        "code": "VTR",
+        "name": "Ventas Inc. ",
+        "price": 4103.596494,
+        "P/E": 41.75,
+        "growth": 11.398527865404844,
+        "potential profit": 15.650000000000006
+    },
+    {
+        "code": "ADBE",
+        "name": "Adobe Inc. ",
+        "price": 41392.32786,
+        "P/E": 99.57,
+        "growth": 13.680851063829778,
+        "potential profit": 278.76
+    },
+    {
+        "code": "VRSN",
+        "name": "VeriSign Inc. ",
+        "price": 16824.978036,
+        "P/E": 98.77,
+        "growth": 9.294952443259021,
+        "potential profit": 72.42999999999998
+    },
+    {
+        "code": "VRSK",
+        "name": "Verisk Analytics Inc (A) ",
+        "price": 15194.230326,
+        "P/E": 40.63,
+        "growth": 5.480262450252766,
+        "potential profit": 71.71000000000001
+    },
+    {
+        "code": "VZ",
+        "name": "Verizon Inc. ",
+        "price": 4122.964044,
+        "P/E": 9.77,
+        "growth": -1.934770591487009,
+        "potential profit": 10.160000000000004
+    },
+    {
+        "code": "VRTX",
+        "name": "Vertex Pharmaceuticals Inc. ",
+        "price": 18829.132110000002,
+        "P/E": 14.29,
+        "growth": 4.866893903438751,
+        "potential profit": 66.92999999999998
+    },
+    {
+        "code": "VIAC",
+        "name": "ViacomCBS ",
+        "price": 2591.3781900000004,
+        "P/E": 95.34,
+        "growth": -36.078731129371285,
+        "potential profit": 73.68
+    },
+    {
+        "code": "VTRS",
+        "name": "Viatris Inc Registered Shs ",
+        "price": 1159.728894,
+        "P/E": 4.43,
+        "growth": -14.187446259673266,
+        "potential profit": 6.719999999999999
+    },
+    {
+        "code": "V",
+        "name": "Visa Inc. ",
+        "price": 17509.814604000003,
+        "P/E": 32.78,
+        "growth": 13.927113261757157,
+        "potential profit": 62.56
+    },
+    {
+        "code": "VNO",
+        "name": "Vornado Realty Trust ",
+        "price": 3177.052902,
+        "P/E": -893.45,
+        "growth": 5.723124516628005,
+        "potential profit": 15.0
+    },
+    {
+        "code": "VMC",
+        "name": "Vulcan Materials Co. ",
+        "price": 14746.452570000001,
+        "P/E": 30.34,
+        "growth": 25.2962085308057,
+        "potential profit": 67.33000000000001
+    },
+    {
+        "code": "WRB",
+        "name": "W. R. Berkley Corp. ",
+        "price": 6545.457198,
+        "P/E": 16.17,
+        "growth": 34.3029725003974,
+        "potential profit": 25.339999999999996
+    },
+    {
+        "code": "AAP",
+        "name": "Advance Auto Parts Inc. ",
+        "price": 17935.126002,
+        "P/E": 18.27,
+        "growth": 53.42965073894891,
+        "potential profit": 96.27000000000001
+    },
+    {
+        "code": "WAB",
+        "name": "Wabtec Corp. (Westinghouse Air Brake Technologies Corp.) ",
+        "price": 6880.903164,
+        "P/E": 18.86,
+        "growth": 16.439433665443104,
+        "potential profit": 28.090000000000003
+    },
+    {
+        "code": "WBA",
+        "name": "Walgreens Boots Alliance Inc ",
+        "price": 3854.917152,
+        "P/E": 8.7,
+        "growth": 1.9045668646324003,
+        "potential profit": 13.43
+    },
+    {
+        "code": "WMT",
+        "name": "Walmart ",
+        "price": 10830.333960000002,
+        "P/E": 25.81,
+        "growth": 0.3877638948729185,
+        "potential profit": 26.289999999999992
+    },
+    {
+        "code": "DIS",
+        "name": "Walt Disney ",
+        "price": 11073.590388,
+        "P/E": 64.22,
+        "growth": -16.360444704505568,
+        "potential profit": 73.73999999999998
+    },
+    {
+        "code": "WM",
+        "name": "Waste Management Inc. ",
+        "price": 11653.842186000002,
+        "P/E": 28.81,
+        "growth": 34.16874777024617,
+        "potential profit": 58.91999999999999
+    },
+    {
+        "code": "WAT",
+        "name": "Waters Corp. ",
+        "price": 24826.874994000005,
+        "P/E": 99.44,
+        "growth": 19.244651162790717,
+        "potential profit": 169.27000000000004
+    },
+    {
+        "code": "WEC",
+        "name": "WEC Energy Group Inc ",
+        "price": 7518.482910000001,
+        "P/E": 23.57,
+        "growth": 9.611475039530148,
+        "potential profit": 19.33
+    },
+    {
+        "code": "WFC",
+        "name": "Wells Fargo & Co. ",
+        "price": 4167.89676,
+        "P/E": 9.85,
+        "growth": 79.45296864576383,
+        "potential profit": 29.189999999999998
+    },
+    {
+        "code": "WELL",
+        "name": "Welltower Inc ",
+        "price": 6711.243426,
+        "P/E": 26.82,
+        "growth": 38.56365962891874,
+        "potential profit": 30.230000000000004
+    },
+    {
+        "code": "WST",
+        "name": "West Pharmaceutical Services Inc. ",
+        "price": 30463.606746000005,
+        "P/E": 58.11,
+        "growth": 32.26707029936091,
+        "potential profit": 221.49
+    },
+    {
+        "code": "AES",
+        "name": "AES Corp. ",
+        "price": 1718.2890360000001,
+        "P/E": 15.98,
+        "growth": -10.564516129032256,
+        "potential profit": 7.530000000000001
+    },
+    {
+        "code": "WDC",
+        "name": "Western Digital Corp. ",
+        "price": 4008.3081480000005,
+        "P/E": 15.43,
+        "growth": -10.158013544018061,
+        "potential profit": 29.57
+    },
+    {
+        "code": "WRK",
+        "name": "WestRock Co When Issued ",
+        "price": 3576.024432,
+        "P/E": 13.03,
+        "growth": 11.416847694907077,
+        "potential profit": 21.990000000000002
+    },
+    {
+        "code": "WY",
+        "name": "Weyerhaeuser Co. ",
+        "price": 3133.6695900000004,
+        "P/E": 12.1,
+        "growth": 26.24843945068666,
+        "potential profit": 10.929999999999996
+    },
+    {
+        "code": "WHR",
+        "name": "Whirlpool Corp. ",
+        "price": 16254.022662000001,
+        "P/E": 8.83,
+        "growth": 12.378146759507231,
+        "potential profit": 77.22
+    },
+    {
+        "code": "WMB",
+        "name": "Williams Companies Inc. ",
+        "price": 2319.457788,
+        "P/E": 18.36,
+        "growth": 40.563380281690144,
+        "potential profit": 8.850000000000001
+    },
+    {
+        "code": "WTW",
+        "name": "Willis Towers Watson PLC ",
+        "price": 18124.927992,
+        "P/E": 17.57,
+        "growth": 12.778982887442766,
+        "potential profit": 72.09
+    },
+    {
+        "code": "WYNN",
+        "name": "Wynn Resorts Ltd. ",
+        "price": 6619.828590000001,
+        "P/E": -5.92,
+        "growth": -16.027908805031444,
+        "potential profit": 67.85
+    },
+    {
+        "code": "XEL",
+        "name": "Xcel Energy Inc. ",
+        "price": 5396.574132,
+        "P/E": 22.95,
+        "growth": 8.945886768845796,
+        "potential profit": 15.630000000000003
+    },
+    {
+        "code": "XLNX",
+        "name": "Xilinx Inc. ",
+        "price": 14994.357210000002,
+        "P/E": 45.91,
+        "growth": 43.04190377651318,
+        "potential profit": 127.94999999999999
+    },
+    {
+        "code": "XYL",
+        "name": "Xylem Inc. ",
+        "price": 8135.920404,
+        "P/E": 48.12,
+        "growth": 8.067503601564098,
+        "potential profit": 44.099999999999994
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "code": "NVR",
+        "name": "NVR Inc. ",
+        "price": 410423.94966600003,
+        "P/E": 94.28,
+        "growth": 16.6920337179874,
+        "potential profit": 1643.1599999999999
+    },
+    {
+        "code": "GOOG",
+        "name": "Alphabet C (ex Google) ",
+        "price": 210251.798694,
+        "P/E": 87.43,
+        "growth": 42.73910642438267,
+        "potential profit": 1226.1299999999999
+    },
+    {
+        "code": "GOOGL",
+        "name": "Alphabet A (ex Google) ",
+        "price": 209639.78411400004,
+        "P/E": 99.75,
+        "growth": 42.946113984163304,
+        "potential profit": 1217.77
+    },
+    {
+        "code": "AMZN",
+        "name": "Amazon ",
+        "price": 231749.779194,
+        "P/E": 86.63,
+        "growth": -10.512193079021685,
+        "potential profit": 1066.04
+    },
+    {
+        "code": "AZO",
+        "name": "AutoZone Inc. ",
+        "price": 153779.121702,
+        "P/E": 99.56,
+        "growth": 71.39933685628435,
+        "potential profit": 1002.3600000000001
+    },
+    {
+        "code": "BKNG",
+        "name": "Booking Holdings Inc Registered Shs ",
+        "price": 190276.88232600002,
+        "P/E": 99.71,
+        "growth": 23.395094601247948,
+        "potential profit": 748.49
+    },
+    {
+        "code": "TSLA",
+        "name": "Tesla ",
+        "price": 72567.88574400001,
+        "P/E": 10.78,
+        "growth": 11.539514890272812,
+        "potential profit": 704.0
+    },
+    {
+        "code": "CMG",
+        "name": "Chipotle Mexican Grill Inc. ",
+        "price": 115212.13203600001,
+        "P/E": 99.26,
+        "growth": -1.2758895379713238,
+        "potential profit": 702.28
+    },
+    {
+        "code": "MTD",
+        "name": "Mettler-Toledo International Inc. ",
+        "price": 113933.09903400001,
+        "P/E": 98.45,
+        "growth": 24.561269776738825,
+        "potential profit": 681.3499999999999
+    },
+    {
+        "code": "MRNA",
+        "name": "Moderna Inc ",
+        "price": 13118.028966000002,
+        "P/E": 86.34,
+        "growth": 7.524765049530103,
+        "potential profit": 379.83000000000004
+    }
+]

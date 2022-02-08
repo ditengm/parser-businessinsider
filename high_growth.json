@@ -1,0 +1,82 @@
+[
+    {
+        "code": "DVN",
+        "name": "Devon Energy Corp. ",
+        "price": 3916.8933120000006,
+        "P/E": -167.13,
+        "growth": 201.49075730471083,
+        "potential profit": 38.07
+    },
+    {
+        "code": "MRO",
+        "name": "Marathon Oil Corp. ",
+        "price": 1507.957443,
+        "P/E": -5.6,
+        "growth": 165.01021102791015,
+        "potential profit": 13.379999999999999
+    },
+    {
+        "code": "APA",
+        "name": "APA Corporation Registered Shs ",
+        "price": 2572.785342,
+        "P/E": -13.09,
+        "growth": 119.64285714285717,
+        "potential profit": 20.449999999999996
+    },
+    {
+        "code": "FANG",
+        "name": "Diamondback Energy Inc ",
+        "price": 9773.640432,
+        "P/E": 15.58,
+        "growth": 117.59227319765438,
+        "potential profit": 77.71000000000001
+    },
+    {
+        "code": "COP",
+        "name": "ConocoPhillips ",
+        "price": 6862.310316,
+        "P/E": -40.25,
+        "growth": 117.48097225632213,
+        "potential profit": 50.03999999999999
+    },
+    {
+        "code": "EOG",
+        "name": "EOG Resources Inc. ",
+        "price": 8637.539949000002,
+        "P/E": 99.65,
+        "growth": 117.16984807167898,
+        "potential profit": 61.2
+    },
+    {
+        "code": "NUE",
+        "name": "Nucor Corp. ",
+        "price": 7853.928876,
+        "P/E": 4.92,
+        "growth": 106.94019187589302,
+        "potential profit": 80.87
+    },
+    {
+        "code": "FTNT",
+        "name": "Fortinet Inc ",
+        "price": 23027.242248000002,
+        "P/E": 83.47,
+        "growth": 100.30999393490129,
+        "potential profit": 227.55999999999997
+    },
+    {
+        "code": "IT",
+        "name": "Gartner Inc. ",
+        "price": 22777.788204,
+        "P/E": 96.78,
+        "growth": 90.81056525407229,
+        "potential profit": 217.78
+    },
+    {
+        "code": "F",
+        "name": "Ford Motor Co. ",
+        "price": 1573.419762,
+        "P/E": 21.51,
+        "growth": 87.44808491001382,
+        "potential profit": 15.510000000000002
+    }
+]
